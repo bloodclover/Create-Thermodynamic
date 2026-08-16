@@ -173,11 +173,14 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 
 ## Resource packs
 
+---
+
 | Name | Version | Author |
+| --- | --- | --- |
+| [Fusion Connected Glass](https://modrinth.com/project/xuN3KzPl) [1.0.1 1.20-1.21.8] | SuperMartijn642 |
+| [Fusion Emissive Ores](https://modrinth.com/project/anEmXbCW) | [1.0.2 1.20-1.21.8] | SuperMartijn642 |
 
-- [Fusion Connected Glass]() [1.0.1 1.20-1.21.8] by SuperMartijn642
-- [Fusion Emissive Ores]() [1.0.2 1.20-1.21.8] by SuperMartijn642
-
+---
 
 *THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
