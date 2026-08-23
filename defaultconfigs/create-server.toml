@@ -73,12 +73,12 @@
 	#Maximum length in blocks of chain conveyor connections.
 	# Default: 32
 	# Range: > 5
-	maxChainConveyorLength = 64
+	maxChainConveyorLength = 32
 	#.
 	#Maximum amount of connections each chain conveyor can have.
 	# Default: 4
 	# Range: > 1
-	maxChainConveyorConnections = 4
+	maxChainConveyorConnections = 3
 	#.
 	#Damage dealt by active Crushing Wheels.
 	# Default: 4
@@ -89,7 +89,7 @@
 	#Maximum allowed rotation speed for any Kinetic Block.
 	# Default: 256
 	# Range: > 64
-	maxRotationSpeed = 1024
+	maxRotationSpeed = 16384
 	#.
 	#Select what mobs should ignore Deployers when attacked by them.
 	#Allowed Values: ALL, CREEPERS, NONE
@@ -103,7 +103,7 @@
 	#multiplier used for calculating exhaustion from speed when a crank is turned.
 	# Default: 0.009999999776482582
 	# Range: 0.0 ~ 1.0
-	crankHungerMultiplier = 0.009999999776482582
+	crankHungerMultiplier = 0.006999999776482582
 	#.
 	#Amount of sail-type blocks required for a windmill to assemble successfully.
 	# Default: 8
@@ -283,38 +283,38 @@
 				brass_encased_shaft = 0.0
 				turntable = 4.0
 				clutch = 0.0
-				mechanical_mixer = 4.0
+				mechanical_mixer = 2.0
 				gearbox = 0.01
 				mechanical_bearing = 4.0
 				copper_backtank = 4.0
 				hose_pulley = 4.0
 				display_board = 0.0
-				crushing_wheel = 8.0
+				crushing_wheel = 4.0
 				adjustable_chain_gearshift = 0.0
-				millstone = 4.0
-				rotation_speed_controller = 1.0
+				millstone = 2.0
+				rotation_speed_controller = 2.0
 				sticky_mechanical_piston = 4.0
 				mechanical_crafter = 2.0
-				deployer = 4.0
+				deployer = 8.0
 				elevator_pulley = 4.0
 				stressometer = 0.0
-				cogwheel = 0.0
+				cogwheel = 0.005
 				encased_chain_drive = 0.0
 				belt = 0.0
 				brass_encased_large_cogwheel = 0.0
 				weighted_ejector = 2.0
-				chain_conveyor = 1.0
-				mechanical_saw = 4.0
+				chain_conveyor = 4.0
+				mechanical_saw = 2.0
 				flywheel = 0.0
 				mechanical_piston = 4.0
 				speedometer = 0.0
 				brass_encased_cogwheel = 0.0
 				clockwork_bearing = 4.0
-				mechanical_press = 8.0
+				mechanical_press = 4.0
 				mechanical_drill = 4.0
 				andesite_encased_shaft = 0.0
 				netherite_backtank = 4.0
-				mechanical_arm = 2.0
+				mechanical_arm = 8.0
 				sequenced_gearshift = 0.0
 				andesite_encased_large_cogwheel = 0.0
 				shaft = 0.0
@@ -322,7 +322,7 @@
 				gearshift = 0.0
 				rope_pulley = 4.0
 				andesite_encased_cogwheel = 0.0
-				large_cogwheel = 0.0
+				large_cogwheel = 0.01
 				encased_fan = 2.0
 				mysterious_cuckoo_clock = 1.0
 				gantry_shaft = 0.0
@@ -335,8 +335,8 @@
 				steam_engine = 1024.0
 				water_wheel = 32.0
 				copper_valve_handle = 8.0
-				hand_crank = 8.0
-				creative_motor = 16384.0
+				hand_crank = 16.0
+				creative_motor = 65536.0
 				large_water_wheel = 128.0
 				windmill_bearing = 768.0
 
@@ -509,7 +509,7 @@
 	#The Maximum Distance at which a Toolbox can interact with Players' Inventories.
 	# Default: 10
 	# Range: > 1
-	toolboxRange = 10
+	toolboxRange = 32
 	#.
 	#The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 	# Default: 900
@@ -524,12 +524,12 @@
 	#Amount of free Extendo Grip actions provided by one filled Copper Backtank. Set to 0 makes Extendo Grips unbreakable
 	# Default: 1000
 	# Range: > 0
-	maxExtendoGripActions = 1000
+	maxExtendoGripActions = 3000
 	#.
 	#Amount of free Potato Cannon shots provided by one filled Copper Backtank. Set to 0 makes Potato Cannons unbreakable
 	# Default: 200
 	# Range: > 0
-	maxPotatoCannonShots = 300
+	maxPotatoCannonShots = 1000
 
 #.
 #Create's builtin Railway systems
@@ -573,13 +573,13 @@
 		#The top speed of Trains during a turn.
 		# Default: 14.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 14.0
+		trainTurningTopSpeed = 9.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
 		# Default: 3.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		trainAcceleration = 3.0
+		trainAcceleration = 2.75
 
 	#.
 	#Powered Trains
@@ -595,7 +595,7 @@
 		#The top speed of powered Trains during a turn.
 		# Default: 20.0
 		# Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 20.0
+		poweredTrainTurningTopSpeed = 36.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
