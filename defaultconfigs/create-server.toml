@@ -280,7 +280,7 @@
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
 			[kinetics.stressValues.v2.impact]
-				brass_encased_shaft = 0.0
+				brass_encased_shaft = 0.01
 				turntable = 4.0
 				clutch = 0.0
 				mechanical_mixer = 2.0
@@ -290,42 +290,42 @@
 				hose_pulley = 4.0
 				display_board = 0.0
 				crushing_wheel = 4.0
-				adjustable_chain_gearshift = 0.0
+				adjustable_chain_gearshift = 1.0
 				millstone = 2.0
 				rotation_speed_controller = 2.0
 				sticky_mechanical_piston = 4.0
 				mechanical_crafter = 2.0
 				deployer = 8.0
 				elevator_pulley = 4.0
-				stressometer = 0.0
-				cogwheel = 0.005
-				encased_chain_drive = 0.0
-				belt = 0.0
-				brass_encased_large_cogwheel = 0.0
+				stressometer = 1.0
+				cogwheel = 0.04
+				encased_chain_drive = 0.004
+				belt = 0.04
+				brass_encased_large_cogwheel = 0.2
 				weighted_ejector = 2.0
 				chain_conveyor = 4.0
 				mechanical_saw = 2.0
 				flywheel = 0.0
 				mechanical_piston = 4.0
-				speedometer = 0.0
-				brass_encased_cogwheel = 0.0
+				speedometer = 1.0
+				brass_encased_cogwheel = 0.04
 				clockwork_bearing = 4.0
 				mechanical_press = 4.0
 				mechanical_drill = 4.0
-				andesite_encased_shaft = 0.0
+				andesite_encased_shaft = 0.01
 				netherite_backtank = 4.0
 				mechanical_arm = 8.0
 				sequenced_gearshift = 0.0
-				andesite_encased_large_cogwheel = 0.0
-				shaft = 0.0
+				andesite_encased_large_cogwheel = 0.2
+				shaft = 0.01
 				cuckoo_clock = 1.0
 				gearshift = 0.0
 				rope_pulley = 4.0
-				andesite_encased_cogwheel = 0.0
-				large_cogwheel = 0.01
+				andesite_encased_cogwheel = 0.04
+				large_cogwheel = 0.2
 				encased_fan = 2.0
 				mysterious_cuckoo_clock = 1.0
-				gantry_shaft = 0.0
+				gantry_shaft = 0.04
 				mechanical_pump = 4.0
 
 			#.
