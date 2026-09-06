@@ -1,0 +1,25 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "a": {
+      "tag": "c:dusts/fluix"
+    },
+    "b": {
+      "tag": "ae2:all_fluix"
+    },
+    "c": {
+      "item": "ae2:singularity"
+    }
+  },
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ae2:fluix_pearl"
+  }
+}

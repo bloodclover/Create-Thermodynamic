@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz_block"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "id": "minecraft:quartz",
+      "count": 4
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "chance": "0.75",
+      "id": "crowns:raw_uranium",
+      "count": 1
+    },
+    {
+      "chance": "0.2",
+      "id": "crowns:raw_uranium",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hostilenetworks",
+  "key": {
+    "E": {
+      "item": "extendedae:concurrent_processor"
+    },
+    "L": {
+      "item": "hostilenetworks:loot_fabricator"
+    },
+    "N": {
+      "item": "ae2:item_storage_cell_256k"
+    },
+    "O": {
+      "item": "ae2:energy_acceptor"
+    },
+    "C": {
+      "item": "ae2:controller"
+    },
+    "W": {
+      "tag": "ae2:smart_dense_cable"
+    },
+    "S": {
+      "item": "hostilenetworks:sim_chamber"
+    }
+  },
+  "pattern": [
+    "ENE",
+    "SCL",
+    "OWO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hostilenetworks:data_center"
+  }
+}

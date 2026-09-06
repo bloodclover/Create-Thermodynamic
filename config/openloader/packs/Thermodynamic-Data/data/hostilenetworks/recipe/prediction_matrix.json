@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hostilenetworks",
+  "key": {
+    "C": {
+      "item": "ae2:silicon"
+    },
+    "G": {
+      "tag": "c:glass_panes"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "N": {
+      "tag": "c:ingots/gold"
+    }
+  },
+  "pattern": [
+    "IG ",
+    "GCG",
+    " GN"
+  ],
+  "result": {
+    "count": 8,
+    "id": "hostilenetworks:prediction_matrix"
+  }
+}

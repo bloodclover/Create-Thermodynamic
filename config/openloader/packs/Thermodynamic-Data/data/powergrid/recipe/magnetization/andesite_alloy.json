@@ -1,0 +1,14 @@
+{
+  "replace": true,
+  "type": "powergrid:magnetization",
+  "ingredients": [
+    {
+      "tag": "c:ingots/iron"
+    }
+  ],
+  "results": [
+    {
+      "item": "powergrid:magnet"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hostilenetworks",
+  "key": {
+    "E": {
+      "item": "ae2:logic_processor"
+    },
+    "F": {
+      "item": "ae2:fluix_crystal"
+    },
+    "G": {
+      "tag": "c:glass_blocks/cheap"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "L": {
+      "item": "extendedae:concurrent_processor"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "FLF",
+    "IEI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hostilenetworks:sim_chamber"
+  }
+}

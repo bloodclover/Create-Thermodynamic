@@ -1,0 +1,32 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hostilenetworks",
+  "key": {
+    "C": {
+      "tag": "c:ingots/iron"
+    },
+    "D": {
+      "item": "ae2:fluix_crystal"
+    },
+    "I": {
+      "item": "ae2:item_storage_cell_16k"
+    },
+    "R": {
+      "item": "ae2:engineering_processor"
+    },
+    "S": {
+      "item": "ae2:fluix_block"
+    }
+  },
+  "pattern": [
+    "CRC",
+    "DSD",
+    "CIC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hostilenetworks:blank_data_model"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hostilenetworks",
+  "key": {
+    "D": {
+      "tag": "ae2:glass_cable"
+    },
+    "G": {
+      "tag": "ae2:illuminated_panel"
+    },
+    "O": {
+      "item": "ae2:fluix_crystal"
+    },
+    "R": {
+      "item": "ae2:item_storage_cell_4k"
+    }
+  },
+  "pattern": [
+    "ORO",
+    "RGR",
+    "ODO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hostilenetworks:deep_learner"
+  }
+}

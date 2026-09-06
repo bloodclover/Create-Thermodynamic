@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "c:dusts/redstone"
+    },
+    {
+      "item": "powergrid:copper_coil"
+    },
+    {
+      "item": "create:industrial_iron_block"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "simulated:redstone_magnet"
+  }
+}

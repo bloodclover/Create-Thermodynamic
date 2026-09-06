@@ -1,0 +1,35 @@
+{
+  "replace": true,
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "hostilenetworks",
+  "key": {
+    "C": {
+      "item": "ae2:engineering_processor"
+    },
+    "F": {
+      "item": "ae2:formation_core"
+    },
+    "A": {
+      "item": "ae2:annihilation_core"
+    },
+    "I": {
+      "item": "ae2:controller"
+    },
+    "N": {
+      "tag": "c:ingots/iron"
+    },
+    "O": {
+      "item": "extendedae:ex_molecular_assembler"
+    }
+  },
+  "pattern": [
+    "NIN",
+    "AOF",
+    "NCN"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hostilenetworks:loot_fabricator"
+  }
+}
