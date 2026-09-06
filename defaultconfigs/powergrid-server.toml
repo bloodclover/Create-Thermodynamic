@@ -17,7 +17,7 @@ configVersion = 5
 	#Controls the torque force calculated from stress impact of machines (used by generators and motors)
 	# Default: 15.0
 	# Range: 0.0 ~ 3.4028234663852886E38
-	torqueForStress = 15.0
+	torqueForStress = 20.0
 	#.
 	#How much lightning rod linear velocity is needed to reach the maximum lightning attractor firing rate
 	# Default: 0.05000000074505806
@@ -52,7 +52,7 @@ configVersion = 5
 		#Maximum rotation speed of a rotor
 		# Default: 272
 		# Range: > 0
-		rotorRPMMax = 16385
+		rotorRPMMax = 3605
 		#.
 		#Maximum length of a rotor assembly
 		# Default: 8
@@ -626,7 +626,7 @@ configVersion = 5
 	#Portable Battery energy capacity before enchants
 	# Default: 20000
 	# Range: > 1
-	portableBatteryBaseCapacity = 20000
+	portableBatteryBaseCapacity = 30000
 	#.
 	#Portable Battery energy capacity increase per level of Capacity enchant
 	# Default: 20000
@@ -636,7 +636,7 @@ configVersion = 5
 	#Max multimeter distance
 	# Default: 5.0
 	# Range: 1.0 ~ 3.4028234663852886E38
-	multimeterDistance = 5.0
+	multimeterDistance = 10.0
 	#.
 	#Max multimeter voltage
 	# Default: 500.0
