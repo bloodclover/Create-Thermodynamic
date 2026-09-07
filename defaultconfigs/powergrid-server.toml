@@ -208,7 +208,7 @@ configVersion = 5
 	#Maximum conductive blocks needed for a grounding rod to reach its lowest resistance
 	# Default: 64
 	# Range: > 0
-	groundingMaximumBlocks = 64
+	groundingMaximumBlocks = 80
 	#.
 	#Highest resistance of the grounding rod
 	# Default: 5000.0
@@ -261,7 +261,7 @@ configVersion = 5
 	#Minimum current flowing through a cut wire that will start causing damage
 	# Default: 0.20000000298023224
 	# Range: 0.0 ~ 3.4028234663852886E38
-	wireCutDamageCurrentThreshold = 0.20000000298023224
+	wireCutDamageCurrentThreshold = 20.0
 	#.
 	#Enable circuit forming interaction for players in creative mode
 	creativePlayerShortsWires = false
@@ -381,7 +381,7 @@ configVersion = 5
 		splittingTransmissionLines = false
 		#.
 		#Allows transformers to split the grid. This option should improve performance but it will result in transformers having some capacitance and delay.
-		splittingsTransformers = false
+		splittingsTransformers = true
 		#.
 		#Maximum solver iterations for networks without dynamic residuals
 		# Default: 200
@@ -626,7 +626,7 @@ configVersion = 5
 	#Portable Battery energy capacity before enchants
 	# Default: 20000
 	# Range: > 1
-	portableBatteryBaseCapacity = 30000
+	portableBatteryBaseCapacity = 50000
 	#.
 	#Portable Battery energy capacity increase per level of Capacity enchant
 	# Default: 20000

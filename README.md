@@ -32,7 +32,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [CC: Sable](https://modrinth.com/mod/OPNBxiZD) | [1.3.4] | TechTastic |
 | [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd) | [1.120.2] | Daniel Ratcliffe, Aaron Mills, SquidDev |
 | [CC:C Bridge](https://modrinth.com/mod/fXt291FO) | [1.7.3] | Sammy L. Koch |
-| [CROWNS](https://modrinth.com/mod/RCsqeVSp) | [2.2.5] | Real Ant Engineer |
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | [2.2.6] | Tschipp, PurpliciousCow |
 | [Cerulean](https://modrinth.com/mod/dv57xmf9) | [1.0.0] | Toni, Mephodio |
 | [Chloride](https://modrinth.com/mod/yD9qW65f) | [1.8.1] | SrRapero720 |
@@ -56,6 +55,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create Deco](https://modrinth.com/mod/sMvUb4Rb) | [2.1.3] | Kayla, Talrey, Ordana, Cassian |
 | [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) | [1.21.1-1.3.15] | George VI |
 | [Create Electro Energetics](https://modrinth.com/mod/qYJdIoAx) | [1.21.1-1.1.1] | George VI |
+| [Create Factory Logistics](https://modrinth.com/mod/QMGO17gm) | [1.6.0] | zznty |
 | [Create Jetpack](https://modrinth.com/mod/UbFnAd4l) | [5.2.1] | possible_triangle |
 | [Create Liquid Fuel](https://modrinth.com/mod/sH9tXU9f) | [2.1.1-1.21.1] | Forsteri |
 | [Create Low-Heated](https://modrinth.com/mod/hd0gHVlC) | [1.21.1-6.0.10-2] | zeh |
@@ -79,7 +79,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create: EMI Schematics](https://modrinth.com/mod/5bgqgixq) | [1.1.0] | LiukRast, swzo |
 | [Create: Enchantable Machinery](https://modrinth.com/mod/eqrvp4NK) | [3.6.0] | Cotrin |
 | [Create: Enchantment Industry](https://modrinth.com/mod/JWGBpFUP) | [2.5.3b] | DragonsPlus |
-| [Create: Extra Gauges](https://modrinth.com/mod/6YJgomwt) | [2.1.3] | Liukrast, Francywott |
 | [Create: Ez Stock Ticker](https://modrinth.com/mod/qYDytzUC) | [1.1.0] | Cake |
 | [Create: Framed](https://modrinth.com/mod/15fFZ3f4) | [1.8.2] | DakotaPride |
 | [Create: Interiors](https://modrinth.com/mod/r4Knci2k) | [0.6.1] | sudolev, rdh |
@@ -89,12 +88,10 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) | [0.6.1] | patryk3211, Da-Negy, rvndm, casvara |
 | [Create: Power Loader](https://modrinth.com/mod/wPQ6GgFE) | [2.0.5-mc1.21.1] | Lysine |
 | [Create: Reactive Stress](https://modrinth.com/mod/HVNJg4pX) | [1.0.3] | Peterhun |
-| [Create: Repackaged](https://modrinth.com/mod/D6daOdv9) | [0.0.7] | Liukrast |
 | [Create: Smart Bounds](https://modrinth.com/mod/kSok4DxT) | [1.0.0] | LiukRast |
 | [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI) | [0.3.0-beta.2+neoforge-mc1.21.1] | PoppyBlossom, Chameleon538, gblfxt |
 | [CreateBetterFps](https://modrinth.com/mod/lMYIHZNH) | [1.1.4] | MoePus |
 | [Curios API](https://modrinth.com/mod/vvuO3ImH) | [9.5.1+1.21.1] | C4 |
-| [Deployer](https://modrinth.com/mod/OZhUIuou) | [0.1.3] | Liukrast, SWZO |
 | [Distant Horizons](https://modrinth.com/mod/uCdwusMi) | [3.2.0-b] |  |
 | [Distraction Free Recipes (EMI)](https://modrinth.com/mod/gbJLUhZP) | [1.2.1] | Toni |
 | [DragonLib](https://modrinth.com/mod/sbIsGaOV) | [1.21.1-beta-3.0.28] | MrJulsen |

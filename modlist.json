@@ -1,0 +1,797 @@
+[
+    {
+        "name": "Aileron",
+        "url": "https://modrinth.com/mod/b8kG1VGq",
+        "version": "1.21.1-neoforge-1.1.4"
+    },
+    {
+        "name": "Almanac",
+        "url": "https://modrinth.com/mod/Gi02250Z",
+        "version": "1.5.2"
+    },
+    {
+        "name": "Anvil Never Too Expensive",
+        "url": "https://modrinth.com/mod/TEOa2X8B",
+        "version": "1.2.1"
+    },
+    {
+        "name": "AppleSkin",
+        "url": "https://modrinth.com/mod/EsAfCjCV",
+        "version": "3.0.9+mc1.21"
+    },
+    {
+        "name": "Applied Energistics 2",
+        "url": "https://modrinth.com/mod/XxWD5pD3",
+        "version": "19.2.17"
+    },
+    {
+        "name": "Architectury",
+        "url": "https://modrinth.com/mod/lhGA9TYQ",
+        "version": "13.0.11"
+    },
+    {
+        "name": "Async Logger",
+        "url": "https://modrinth.com/mod/zvNzKfGF",
+        "version": "2.2.2+1.21.1-neoforge"
+    },
+    {
+        "name": "AsyncParticles",
+        "url": "https://modrinth.com/mod/c3onkd5k",
+        "version": "21.1.4.2"
+    },
+    {
+        "name": "Azimuth",
+        "url": "https://modrinth.com/mod/RpH8tmT1",
+        "version": "1.4.8"
+    },
+    {
+        "name": "BadOptimizations",
+        "url": "https://modrinth.com/mod/g96Z4WVZ",
+        "version": "2.4.1"
+    },
+    {
+        "name": "BaguetteLib",
+        "url": "https://modrinth.com/mod/OfKzpbRU",
+        "version": "2.0.6"
+    },
+    {
+        "name": "Bits 'n' Tracks",
+        "url": "https://modrinth.com/mod/wYkiNwv2",
+        "version": "1.0.3.1"
+    },
+    {
+        "name": "Blåhaj",
+        "url": "https://modrinth.com/mod/xC5B7AZB",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Bookshelf",
+        "url": "https://modrinth.com/mod/uy4Cnpcm",
+        "version": "21.1.81"
+    },
+    {
+        "name": "CC: CPG Pinout",
+        "url": "https://modrinth.com/mod/sMa4MaGz",
+        "version": "0.2.1"
+    },
+    {
+        "name": "CC: Power Grid Compat",
+        "url": "https://modrinth.com/mod/qVlaUG9z",
+        "version": "1.0.1"
+    },
+    {
+        "name": "CC: Sable",
+        "url": "https://modrinth.com/mod/OPNBxiZD",
+        "version": "1.3.4"
+    },
+    {
+        "name": "CC: Tweaked",
+        "url": "https://modrinth.com/mod/gu7yAYhd",
+        "version": "1.120.2"
+    },
+    {
+        "name": "CC:C Bridge",
+        "url": "https://modrinth.com/mod/fXt291FO",
+        "version": "1.7.3"
+    },
+    {
+        "name": "Carry On",
+        "url": "https://modrinth.com/mod/joEfVgkn",
+        "version": "2.2.6"
+    },
+    {
+        "name": "Cerulean",
+        "url": "https://modrinth.com/mod/dv57xmf9",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Chloride",
+        "url": "https://modrinth.com/mod/yD9qW65f",
+        "version": "1.8.1"
+    },
+    {
+        "name": "Climbable Ropes for Create Aeronautics",
+        "url": "https://modrinth.com/mod/jImqv1M5",
+        "version": "2.1.3"
+    },
+    {
+        "name": "Cloth Config v15 API",
+        "url": "https://modrinth.com/mod/9s6osm5g",
+        "version": "15.0.140"
+    },
+    {
+        "name": "Clumps",
+        "url": "https://modrinth.com/mod/Wnxd13zP",
+        "version": "19.0.0.1"
+    },
+    {
+        "name": "Companion",
+        "url": "https://modrinth.com/mod/4w0EzGRW",
+        "version": "NONE"
+    },
+    {
+        "name": "Concurrent Chunk Management Engine",
+        "url": "https://modrinth.com/mod/COlSi5iR",
+        "version": "0.4.0-alpha.0.120+1.21.1"
+    },
+    {
+        "name": "Controlify",
+        "url": "https://modrinth.com/mod/DOUdJVEm",
+        "version": "3.0.1+lts+1.21.1-neoforge"
+    },
+    {
+        "name": "Controlling",
+        "url": "https://modrinth.com/mod/xv94TkTM",
+        "version": "19.0.5"
+    },
+    {
+        "name": "Corpse",
+        "url": "https://modrinth.com/mod/WrpuIfhw",
+        "version": "1.21.1-1.1.13"
+    },
+    {
+        "name": "Corpse Curios Compatibility",
+        "url": "https://modrinth.com/mod/pJGcKPh1",
+        "version": "4.0.1"
+    },
+    {
+        "name": "Crash Assistant",
+        "url": "https://modrinth.com/mod/ix1qq8Ux",
+        "version": "1.11.12"
+    },
+    {
+        "name": "Crawl on Demand",
+        "url": "https://modrinth.com/mod/wcXLQVhg",
+        "version": "1.2.0"
+    },
+    {
+        "name": "Create",
+        "url": "https://modrinth.com/mod/LNytGWDc",
+        "version": "6.0.10"
+    },
+    {
+        "name": "Create Aeronautics",
+        "url": "https://modrinth.com/mod/oWaK0Q19",
+        "version": "1.3.2"
+    },
+    {
+        "name": "Create Aeronautics Lift Fix",
+        "url": "https://modrinth.com/mod/wEWnF0xx",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Create Aeronautics: Toolgun",
+        "url": "https://modrinth.com/mod/5fUBLqeW",
+        "version": "0.3.6"
+    },
+    {
+        "name": "Create Aeronautics: Transmission & Linkage",
+        "url": "https://modrinth.com/mod/Y1dq5ioE",
+        "version": "0.2.8"
+    },
+    {
+        "name": "Create Bits 'n' Bobs",
+        "url": "https://modrinth.com/mod/T8bvmqVZ",
+        "version": "2.2.9"
+    },
+    {
+        "name": "Create Deco",
+        "url": "https://modrinth.com/mod/sMvUb4Rb",
+        "version": "2.1.3"
+    },
+    {
+        "name": "Create Diesel Generators",
+        "url": "https://modrinth.com/mod/ZM3tt6p1",
+        "version": "1.21.1-1.3.15"
+    },
+    {
+        "name": "Create Electro Energetics",
+        "url": "https://modrinth.com/mod/qYJdIoAx",
+        "version": "1.21.1-1.1.1"
+    },
+    {
+        "name": "Create Factory Logistics",
+        "url": "https://modrinth.com/mod/QMGO17gm",
+        "version": "1.6.0"
+    },
+    {
+        "name": "Create Jetpack",
+        "url": "https://modrinth.com/mod/UbFnAd4l",
+        "version": "5.2.1"
+    },
+    {
+        "name": "Create Liquid Fuel",
+        "url": "https://modrinth.com/mod/sH9tXU9f",
+        "version": "2.1.1-1.21.1"
+    },
+    {
+        "name": "Create Low-Heated",
+        "url": "https://modrinth.com/mod/hd0gHVlC",
+        "version": "1.21.1-6.0.10-2"
+    },
+    {
+        "name": "Create More: Parallel Pipes",
+        "url": "https://modrinth.com/mod/5jfUeix5",
+        "version": "2.0.2"
+    },
+    {
+        "name": "Create Ore Excavation",
+        "url": "https://modrinth.com/mod/ResbpANg",
+        "version": "1.6.8"
+    },
+    {
+        "name": "Create Picky Wheels",
+        "url": "https://modrinth.com/mod/Zotbxaw6",
+        "version": "1.21.1-6.0.9-6"
+    },
+    {
+        "name": "Create Propulsion: Simulated",
+        "url": "https://modrinth.com/mod/ApkoHNO9",
+        "version": "1.1.5"
+    },
+    {
+        "name": "Create Railways Navigator",
+        "url": "https://modrinth.com/mod/Dq3STxps",
+        "version": "1.21.1-beta-0.9.1-C6"
+    },
+    {
+        "name": "Create Slice & Dice",
+        "url": "https://modrinth.com/mod/GmjmRQ0A",
+        "version": "4.3.3"
+    },
+    {
+        "name": "Create Stock Bridge",
+        "url": "https://modrinth.com/mod/V7mbOBO4",
+        "version": "0.2.0"
+    },
+    {
+        "name": "Create cobblestone",
+        "url": "https://modrinth.com/mod/ihpnEd80",
+        "version": "1.5.0+neoforge-1.21.1-153"
+    },
+    {
+        "name": "Create: Additional Logistics",
+        "url": "https://modrinth.com/mod/CZaz7aje",
+        "version": "1.4.5"
+    },
+    {
+        "name": "Create: Aeroworks",
+        "url": "https://modrinth.com/mod/P26k79kP",
+        "version": "1.5.0"
+    },
+    {
+        "name": "Create: Bells & Whistles",
+        "url": "https://modrinth.com/mod/gJ5afkVv",
+        "version": "0.4.7-1.21.1"
+    },
+    {
+        "name": "Create: Cats Don't Care",
+        "url": "https://modrinth.com/mod/q0amtIqG",
+        "version": "0.0.2+1.21.1+neoforge"
+    },
+    {
+        "name": "Create: Central Kitchen",
+        "url": "https://modrinth.com/mod/btq68HMO",
+        "version": "2.6.0"
+    },
+    {
+        "name": "Create: Connected",
+        "url": "https://modrinth.com/mod/Vg5TIO6d",
+        "version": "1.3.3-mc1.21.1"
+    },
+    {
+        "name": "Create: Copycats+",
+        "url": "https://modrinth.com/mod/UT2M39wf",
+        "version": "3.0.8+mc.1.21.1-neoforge"
+    },
+    {
+        "name": "Create: Dragons Plus",
+        "url": "https://modrinth.com/mod/dzb1a5WV",
+        "version": "1.11.8"
+    },
+    {
+        "name": "Create: Drill Drain",
+        "url": "https://modrinth.com/mod/DRKSn9G8",
+        "version": "1.0.13"
+    },
+    {
+        "name": "Create: EMI Schematics",
+        "url": "https://modrinth.com/mod/5bgqgixq",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Create: Enchantable Machinery",
+        "url": "https://modrinth.com/mod/eqrvp4NK",
+        "version": "3.6.0"
+    },
+    {
+        "name": "Create: Enchantment Industry",
+        "url": "https://modrinth.com/mod/JWGBpFUP",
+        "version": "2.5.3b"
+    },
+    {
+        "name": "Create: Ez Stock Ticker",
+        "url": "https://modrinth.com/mod/qYDytzUC",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Create: Framed",
+        "url": "https://modrinth.com/mod/15fFZ3f4",
+        "version": "1.8.2"
+    },
+    {
+        "name": "Create: Interiors",
+        "url": "https://modrinth.com/mod/r4Knci2k",
+        "version": "0.6.1"
+    },
+    {
+        "name": "Create: Oxidized",
+        "url": "https://modrinth.com/mod/X9kjRZeX",
+        "version": "0.1.3"
+    },
+    {
+        "name": "Create: Pattern Schematics",
+        "url": "https://modrinth.com/mod/cpqKG67r",
+        "version": "2.0.10"
+    },
+    {
+        "name": "Create: Power Chip",
+        "url": "https://modrinth.com/mod/xjCy9IA8",
+        "version": "2.1.0"
+    },
+    {
+        "name": "Create: Power Grid",
+        "url": "https://modrinth.com/mod/eWiBLJ9R",
+        "version": "0.6.1"
+    },
+    {
+        "name": "Create: Power Loader",
+        "url": "https://modrinth.com/mod/wPQ6GgFE",
+        "version": "2.0.5-mc1.21.1"
+    },
+    {
+        "name": "Create: Reactive Stress",
+        "url": "https://modrinth.com/mod/HVNJg4pX",
+        "version": "1.0.3"
+    },
+    {
+        "name": "Create: Smart Bounds",
+        "url": "https://modrinth.com/mod/kSok4DxT",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Create: Steam 'n' Rails 1.21.1",
+        "url": "https://modrinth.com/mod/L3Jv0QZI",
+        "version": "0.3.0-beta.2+neoforge-mc1.21.1"
+    },
+    {
+        "name": "CreateBetterFps",
+        "url": "https://modrinth.com/mod/lMYIHZNH",
+        "version": "1.1.4"
+    },
+    {
+        "name": "Curios API",
+        "url": "https://modrinth.com/mod/vvuO3ImH",
+        "version": "9.5.1+1.21.1"
+    },
+    {
+        "name": "Distant Horizons",
+        "url": "https://modrinth.com/mod/uCdwusMi",
+        "version": "3.2.0-b"
+    },
+    {
+        "name": "Distraction Free Recipes (EMI)",
+        "url": "https://modrinth.com/mod/gbJLUhZP",
+        "version": "1.2.1"
+    },
+    {
+        "name": "DragonLib",
+        "url": "https://modrinth.com/mod/sbIsGaOV",
+        "version": "1.21.1-beta-3.0.28"
+    },
+    {
+        "name": "EMI",
+        "url": "https://modrinth.com/mod/fRiHVvU7",
+        "version": "1.1.24+1.21.1+neoforge"
+    },
+    {
+        "name": "EMI Loot",
+        "url": "https://modrinth.com/mod/qbbO7Jns",
+        "version": "0.7.9+1.21+neoforge"
+    },
+    {
+        "name": "EMI Ores",
+        "url": "https://modrinth.com/mod/sG4TqDb8",
+        "version": "1.3+1.21.1+neoforge"
+    },
+    {
+        "name": "EntityCulling",
+        "url": "https://modrinth.com/mod/NNAgCjsB",
+        "version": "1.10.5"
+    },
+    {
+        "name": "Expanded Delight",
+        "url": "https://modrinth.com/mod/e9V6wFcR",
+        "version": "0.1.4"
+    },
+    {
+        "name": "Exposure",
+        "url": "https://modrinth.com/mod/hB899VmG",
+        "version": "1.9.18"
+    },
+    {
+        "name": "ExtendedAE",
+        "url": "https://modrinth.com/mod/JiOqfoFM",
+        "version": "1.21-2.2.35-neoforge"
+    },
+    {
+        "name": "Extreme Sound Muffler",
+        "url": "https://modrinth.com/mod/5IIKsxiL",
+        "version": "3.56"
+    },
+    {
+        "name": "Farmer's Delight",
+        "url": "https://modrinth.com/mod/R2OftAxM",
+        "version": "1.3.4"
+    },
+    {
+        "name": "Fast Noise Mod",
+        "url": "https://modrinth.com/mod/OnlVIpq5",
+        "version": "1.0.13+1.21.1+neoforge"
+    },
+    {
+        "name": "Ferrite Core",
+        "url": "https://modrinth.com/mod/uXXizFIs",
+        "version": "7.0.3"
+    },
+    {
+        "name": "Flerovium",
+        "url": "https://modrinth.com/mod/4Rh1Mobu",
+        "version": "1.1.2"
+    },
+    {
+        "name": "Formic API",
+        "url": "https://modrinth.com/mod/Wun33LcK",
+        "version": "2.4.2"
+    },
+    {
+        "name": "Fusion",
+        "url": "https://modrinth.com/mod/p19vrgc2",
+        "version": "1.3.15"
+    },
+    {
+        "name": "Fzzy Config",
+        "url": "https://modrinth.com/mod/hYykXjDp",
+        "version": "0.7.6+1.21+neoforge"
+    },
+    {
+        "name": "Glodium",
+        "url": "https://modrinth.com/mod/UhW5uCKw",
+        "version": "1.21-2.2-neoforge"
+    },
+    {
+        "name": "Grind Enchantments",
+        "url": "https://modrinth.com/mod/WC4UgDcZ",
+        "version": "4.0.1+neoforge-1.21.1"
+    },
+    {
+        "name": "GuideME",
+        "url": "https://modrinth.com/mod/Ck4E7v7R",
+        "version": "21.1.17"
+    },
+    {
+        "name": "Hardcore Torches",
+        "url": "https://modrinth.com/mod/Ru97clEJ",
+        "version": "1.21.0-2.5"
+    },
+    {
+        "name": "Hostile Neural Networks",
+        "url": "https://modrinth.com/mod/6bLUlbZn",
+        "version": "6.5.1"
+    },
+    {
+        "name": "ImmediatelyFast",
+        "url": "https://modrinth.com/mod/5ZwdcRci",
+        "version": "1.6.13+1.21.1"
+    },
+    {
+        "name": "Iris",
+        "url": "https://modrinth.com/mod/YL57xq9U",
+        "version": "1.8.14-beta.1+mc1.21.1"
+    },
+    {
+        "name": "Iris Flywheel Compat",
+        "url": "https://modrinth.com/mod/ndHYMY2K",
+        "version": "2.4.0"
+    },
+    {
+        "name": "Jade",
+        "url": "https://modrinth.com/mod/nvQzSEkH",
+        "version": "15.10.6+neoforge"
+    },
+    {
+        "name": "Jade Addons",
+        "url": "https://modrinth.com/mod/xuDOzCLy",
+        "version": "6.1.1+neoforge"
+    },
+    {
+        "name": "Jade Sable Compat",
+        "url": "https://modrinth.com/mod/jCrJ4iGH",
+        "version": "1.3.0"
+    },
+    {
+        "name": "Just Enough Items",
+        "url": "https://modrinth.com/mod/u6dRKJwZ",
+        "version": "19.52.0.423"
+    },
+    {
+        "name": "Kiwi Library",
+        "url": "https://modrinth.com/mod/ufdDoWPd",
+        "version": "15.8.7+neoforge"
+    },
+    {
+        "name": "Kotlin for Forge",
+        "url": "https://modrinth.com/mod/ordsPcFz",
+        "version": "uhJhCT7X"
+    },
+    {
+        "name": "LambDynamicLights",
+        "url": "https://modrinth.com/mod/yBW8D80W",
+        "version": "4.8.11+1.21.1"
+    },
+    {
+        "name": "Leaves Be Gone",
+        "url": "https://modrinth.com/mod/AVq17PqV",
+        "version": "21.1.1"
+    },
+    {
+        "name": "Let Me Despawn",
+        "url": "https://modrinth.com/mod/vE2FN5qn",
+        "version": "1.5.0"
+    },
+    {
+        "name": "Lithostitched",
+        "url": "https://modrinth.com/mod/XaDC71GB",
+        "version": "1.8.0+beta4"
+    },
+    {
+        "name": "Lootr",
+        "url": "https://modrinth.com/mod/EltpO5cN",
+        "version": "1.21.1-1.11.38.124"
+    },
+    {
+        "name": "Model Gap Fix",
+        "url": "https://modrinth.com/mod/QdG47OkI",
+        "version": "1.21-1.10"
+    },
+    {
+        "name": "ModernFix",
+        "url": "https://modrinth.com/mod/nmDcB62a",
+        "version": "5.27.24+mc1.21.1"
+    },
+    {
+        "name": "More Culling",
+        "url": "https://modrinth.com/mod/51shyZVL",
+        "version": "1.0.9"
+    },
+    {
+        "name": "Mouse Tweaks",
+        "url": "https://modrinth.com/mod/aC3cM3Vq",
+        "version": "2.26.1"
+    },
+    {
+        "name": "Nature's Compass",
+        "url": "https://modrinth.com/mod/fPetb5Kh",
+        "version": "1.21.1-3.4.0-neoforge"
+    },
+    {
+        "name": "No Chat Reports",
+        "url": "https://modrinth.com/mod/qQyHxfxd",
+        "version": "1.21.1-v2.9.1"
+    },
+    {
+        "name": "OpenLoader",
+        "url": "https://modrinth.com/mod/KwWsINvD",
+        "version": "21.1.5"
+    },
+    {
+        "name": "PacketFixer",
+        "url": "https://modrinth.com/mod/c7m1mi73",
+        "version": "3.3.1"
+    },
+    {
+        "name": "Particle Core",
+        "url": "https://modrinth.com/mod/RSeLon5O",
+        "version": "0.3.3+1.21+neoforge"
+    },
+    {
+        "name": "PatPat",
+        "url": "https://modrinth.com/mod/dw7LChq9",
+        "version": "1.3.1+1.21.1+neoforge"
+    },
+    {
+        "name": "Placebo",
+        "url": "https://modrinth.com/mod/tCkE8p2N",
+        "version": "9.9.2"
+    },
+    {
+        "name": "Player Animator",
+        "url": "https://modrinth.com/mod/gedNE4y2",
+        "version": "2.0.4+1.21.1"
+    },
+    {
+        "name": "PrickleMC",
+        "url": "https://modrinth.com/mod/aaRl8GiW",
+        "version": "21.1.11"
+    },
+    {
+        "name": "Puzzles Lib",
+        "url": "https://modrinth.com/mod/QAGBst4M",
+        "version": "21.1.56"
+    },
+    {
+        "name": "Quark",
+        "url": "https://modrinth.com/mod/qnQsVE2z",
+        "version": "4.1-482"
+    },
+    {
+        "name": "Redirected",
+        "url": "https://modrinth.com/mod/hhnR8xqU",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Reese's Sodium Options",
+        "url": "https://modrinth.com/mod/Bh37bMuy",
+        "version": "2.2.3+mc1.21.1"
+    },
+    {
+        "name": "Rubber Duck",
+        "url": "https://www.curseforge.com/projects/1048591",
+        "version": "3.0.1"
+    },
+    {
+        "name": "Sable",
+        "url": "https://modrinth.com/mod/T9PomCSv",
+        "version": "2.0.5"
+    },
+    {
+        "name": "Sable-Collision damage",
+        "url": "https://modrinth.com/mod/Jm4nvDTr",
+        "version": "1.0.8"
+    },
+    {
+        "name": "SableMassView",
+        "url": "https://modrinth.com/mod/f5uobnkD",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Searchables",
+        "url": "https://modrinth.com/mod/fuuu3xnx",
+        "version": "1.0.2"
+    },
+    {
+        "name": "Separate Sable Render Distance",
+        "url": "https://modrinth.com/mod/fJ183v3D",
+        "version": "1.8.6"
+    },
+    {
+        "name": "Simple Voice Chat",
+        "url": "https://modrinth.com/mod/9eGKb6K1",
+        "version": "1.21.1-2.6.23"
+    },
+    {
+        "name": "Sodium",
+        "url": "https://modrinth.com/mod/AANobbMI",
+        "version": "0.8.13+mc1.21.1"
+    },
+    {
+        "name": "Sodium Extra",
+        "url": "https://modrinth.com/mod/PtjYWJkn",
+        "version": "0.9.3+mc1.21.1"
+    },
+    {
+        "name": "Sodium Shadowy Path Blocks",
+        "url": "https://modrinth.com/mod/EIa1eiMm",
+        "version": "4.1.0"
+    },
+    {
+        "name": "Some Assembly Required",
+        "url": "https://modrinth.com/mod/jZi8ogTA",
+        "version": "5.2.8"
+    },
+    {
+        "name": "Storage Drawers",
+        "url": "https://modrinth.com/mod/guitPqEi",
+        "version": "13.11.4"
+    },
+    {
+        "name": "Strut Your Stuff",
+        "url": "https://modrinth.com/mod/sHO3MhQx",
+        "version": "1.3.0"
+    },
+    {
+        "name": "SuperMartijn642's Config Library",
+        "url": "https://modrinth.com/mod/LN9BxssP",
+        "version": "1.1.8"
+    },
+    {
+        "name": "SuperMartijn642's Core Lib",
+        "url": "https://modrinth.com/mod/rOUBggPv",
+        "version": "1.1.24"
+    },
+    {
+        "name": "Trash Cans",
+        "url": "https://modrinth.com/mod/4QrnfueM",
+        "version": "1.1.0"
+    },
+    {
+        "name": "Traveler's Backpack",
+        "url": "https://modrinth.com/mod/rlloIFEV",
+        "version": "10.1.39"
+    },
+    {
+        "name": "TxniLib",
+        "url": "https://modrinth.com/mod/vBbPDuOs",
+        "version": "1.0.24"
+    },
+    {
+        "name": "WorldEdit",
+        "url": "https://modrinth.com/mod/1u6JkXh5",
+        "version": "7.3.8+6939-7d32b45"
+    },
+    {
+        "name": "Xaero's Minimap",
+        "url": "https://modrinth.com/mod/1bokaNcj",
+        "version": "26.4.2"
+    },
+    {
+        "name": "Xaero's World Map",
+        "url": "https://modrinth.com/mod/NcUtCpym",
+        "version": "1.45.0"
+    },
+    {
+        "name": "Yeetus Experimentus",
+        "url": "https://modrinth.com/mod/HaaH232J",
+        "version": "87.0.0"
+    },
+    {
+        "name": "YetAnotherConfigLib",
+        "url": "https://modrinth.com/mod/1eAoo2KR",
+        "version": "3.8.2+1.21.1-neoforge"
+    },
+    {
+        "name": "Zeta",
+        "url": "https://modrinth.com/mod/MVARlG2f",
+        "version": "1.1-40"
+    },
+    {
+        "name": "e4all",
+        "url": "https://modrinth.com/mod/fB1gJLGX",
+        "version": "1.6.4"
+    },
+    {
+        "name": "spark",
+        "url": "https://modrinth.com/mod/l6YH9Als",
+        "version": "1.10.124"
+    }
+]
