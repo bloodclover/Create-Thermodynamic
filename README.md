@@ -54,7 +54,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create Aeronautics: Transmission & Linkage](https://modrinth.com/mod/Y1dq5ioE) | [0.2.8] | enxv233 |
 | [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ) | [2.2.9] | Cake, Kipti, NormalGuy, Astral, Spydnel |
 | [Create Deco](https://modrinth.com/mod/sMvUb4Rb) | [2.1.3] | Kayla, Talrey, Ordana, Cassian |
-| [Create Deep Seas](https://modrinth.com/mod/mva5q4qZ) | [2.2.4] | Maxenonyme |
 | [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) | [1.21.1-1.3.15] | George VI |
 | [Create Electro Energetics](https://modrinth.com/mod/qYJdIoAx) | [1.21.1-1.1.1] | George VI |
 | [Create Jetpack](https://modrinth.com/mod/UbFnAd4l) | [5.2.1] | possible_triangle |
