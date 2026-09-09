@@ -1,0 +1,11 @@
+{
+  "replace": true,
+  "values": {
+    "minecraft:fire": 0,
+    "minecraft:magma_block": 0,
+    "crowns:solid_corium": 0,
+    "minecraft:ice": 273,
+    "minecraft:packed_ice": 220,
+    "minecraft:blue_ice": 150
+  }
+}

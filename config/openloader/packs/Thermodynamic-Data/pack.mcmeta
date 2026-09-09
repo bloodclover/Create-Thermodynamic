@@ -10,35 +10,8 @@
     },
     "filter": {
         "block": [{
-            "namespace": "create_new_age",
-            "path": "mixing/thorium.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "shaped/basic_motor.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "shaped/advanced_motor.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "mechanical_crafting/reinforced_motor.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "shaped/basic_motor_extension.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "mechanical_crafting/advanced_motor_extension.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "shaped/redstone_magnet.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "shaped/layered_magnet.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "shaped/fluxuated_magnetite.json"
-        },{
-            "namespace": "create_new_age",
-            "path": "shaped/netherite_magnet.json"
+            "namespace": "create",
+            "path": "passive_boiler_heaters.json"
         }
         ]
     }

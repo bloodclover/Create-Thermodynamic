@@ -1,3 +1,4 @@
 {
-  "create_power_loader.ponder.empty_chunk_loader_basic.text_1": "Right-click a Ghast, Wither Skeleton or Endermite with an empty chunk loader to capture it",
+  "replace": true,
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_1": "Right-click a Ghast, Wither Skeleton or Endermite with an empty chunk loader to capture it"
 }
