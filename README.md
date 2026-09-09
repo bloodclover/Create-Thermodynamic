@@ -53,6 +53,10 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create Aeronautics: Transmission & Linkage](https://modrinth.com/mod/Y1dq5ioE) | [0.2.8] | enxv233 |
 | [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ) | [2.2.9] | Cake, Kipti, NormalGuy, Astral, Spydnel |
 | [Create Deco](https://modrinth.com/mod/sMvUb4Rb) | [2.1.3] | Kayla, Talrey, Ordana, Cassian |
+<<<<<<< Updated upstream
+=======
+| [Create Deep Seas](https://modrinth.com/mod/mva5q4qZ) | [2.2.4] | Maxenonyme |
+>>>>>>> Stashed changes
 | [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) | [1.21.1-1.3.15] | George VI |
 | [Create Electro Energetics](https://modrinth.com/mod/qYJdIoAx) | [1.21.1-1.1.1] | George VI |
 | [Create Factory Logistics](https://modrinth.com/mod/QMGO17gm) | [1.6.0] | zznty |
@@ -127,7 +131,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | [4.8.11+1.21.1] | LambdAurora |
 | [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) | [21.1.1] | Fuzs |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | [1.5.0] | frikinjay |
-| [Lithostitched](https://modrinth.com/mod/XaDC71GB) | [1.8.0+beta4] | Apollo |
 | [Lootr](https://modrinth.com/mod/EltpO5cN) | [1.21.1-1.11.38.124] | Noobanidus |
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | [1.21-1.10] | MehVahdJukaar |
 | [ModernFix](https://modrinth.com/mod/nmDcB62a) | [5.27.24+mc1.21.1] | embeddedt |
