@@ -12,6 +12,9 @@
         "block": [{
             "namespace": "create",
             "path": "passive_boiler_heaters.json"
+        },{
+            "namespace": "electroenergetics",
+            "path": "mixing/transformer_oil.json"
         }
         ]
     }
