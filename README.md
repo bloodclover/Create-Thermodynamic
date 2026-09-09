@@ -24,7 +24,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Azimuth](https://modrinth.com/mod/RpH8tmT1) | [1.4.8] | Cake |
 | [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) | [2.4.1] | Thosea |
 | [BaguetteLib](https://modrinth.com/mod/OfKzpbRU) | [2.0.6] | Leclowndu93150 |
-| [Bits 'n' Tracks](https://modrinth.com/mod/wYkiNwv2) | [1.0.3.1] | qwxon |
 | [Blåhaj](https://modrinth.com/mod/xC5B7AZB) | [1.0.0] | hibi, infoplayerstart, DaFuqs, rdh, RedrcknRbn |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | [21.1.81] | Darkhax |
 | [CC: CPG Pinout](https://modrinth.com/mod/sMa4MaGz) | [0.2.1] |  |
@@ -32,6 +31,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [CC: Sable](https://modrinth.com/mod/OPNBxiZD) | [1.3.4] | TechTastic |
 | [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd) | [1.120.2] | Daniel Ratcliffe, Aaron Mills, SquidDev |
 | [CC:C Bridge](https://modrinth.com/mod/fXt291FO) | [1.7.3] | Sammy L. Koch |
+| [CROWNS](https://modrinth.com/mod/RCsqeVSp) | [2.2.5] | Real Ant Engineer |
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | [2.2.6] | Tschipp, PurpliciousCow |
 | [Cerulean](https://modrinth.com/mod/dv57xmf9) | [1.0.0] | Toni, Mephodio |
 | [Chloride](https://modrinth.com/mod/yD9qW65f) | [1.8.1] | SrRapero720 |
@@ -50,51 +50,35 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) | [1.3.2] | Simulated Team |
 | [Create Aeronautics Lift Fix](https://modrinth.com/mod/wEWnF0xx) | [1.0.0] |  |
 | [Create Aeronautics: Toolgun](https://modrinth.com/mod/5fUBLqeW) | [0.3.6] | enxv233 |
-| [Create Aeronautics: Transmission & Linkage](https://modrinth.com/mod/Y1dq5ioE) | [0.2.8] | enxv233 |
-| [Create Bits 'n' Bobs](https://modrinth.com/mod/T8bvmqVZ) | [2.2.9] | Cake, Kipti, NormalGuy, Astral, Spydnel |
 | [Create Deco](https://modrinth.com/mod/sMvUb4Rb) | [2.1.3] | Kayla, Talrey, Ordana, Cassian |
-<<<<<<< Updated upstream
-=======
-| [Create Deep Seas](https://modrinth.com/mod/mva5q4qZ) | [2.2.4] | Maxenonyme |
->>>>>>> Stashed changes
 | [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) | [1.21.1-1.3.15] | George VI |
 | [Create Electro Energetics](https://modrinth.com/mod/qYJdIoAx) | [1.21.1-1.1.1] | George VI |
 | [Create Factory Logistics](https://modrinth.com/mod/QMGO17gm) | [1.6.0] | zznty |
 | [Create Jetpack](https://modrinth.com/mod/UbFnAd4l) | [5.2.1] | possible_triangle |
 | [Create Liquid Fuel](https://modrinth.com/mod/sH9tXU9f) | [2.1.1-1.21.1] | Forsteri |
-| [Create Low-Heated](https://modrinth.com/mod/hd0gHVlC) | [1.21.1-6.0.10-2] | zeh |
 | [Create More: Parallel Pipes](https://modrinth.com/mod/5jfUeix5) | [2.0.2] | Krei |
 | [Create Ore Excavation](https://modrinth.com/mod/ResbpANg) | [1.6.8] | tom5454 |
 | [Create Picky Wheels](https://modrinth.com/mod/Zotbxaw6) | [1.21.1-6.0.9-6] | zeh |
-| [Create Propulsion: Simulated](https://modrinth.com/mod/ApkoHNO9) | [1.1.5] | Sergey Feduk, Tronco_78, Bunting_chj, SSnowly, KyivSec |
 | [Create Railways Navigator](https://modrinth.com/mod/Dq3STxps) | [1.21.1-beta-0.9.1-C6] | MrJulsen |
 | [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) | [4.3.3] | possible_triangle |
 | [Create Stock Bridge](https://modrinth.com/mod/V7mbOBO4) | [0.2.0] | tom5454 |
-| [Create cobblestone](https://modrinth.com/mod/ihpnEd80) | [1.5.0+neoforge-1.21.1-153] | MrStickyPiston |
-| [Create: Additional Logistics](https://modrinth.com/mod/CZaz7aje) | [1.4.5] | Khloe Leclair |
-| [Create: Aeroworks](https://modrinth.com/mod/P26k79kP) | [1.5.0] | mred231 |
+| [Create Tracks](https://modrinth.com/mod/iPv9VoMI) | [1.0.1] | qwxon |
 | [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv) | [0.4.7-1.21.1] | lev |
-| [Create: Cats Don't Care](https://modrinth.com/mod/q0amtIqG) | [0.0.2+1.21.1+neoforge] | ZipeStudio |
 | [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO) | [2.6.0] | DragonsPlus |
 | [Create: Connected](https://modrinth.com/mod/Vg5TIO6d) | [1.3.3-mc1.21.1] | Lysine |
 | [Create: Copycats+](https://modrinth.com/mod/UT2M39wf) | [3.0.8+mc.1.21.1-neoforge] | Lysine, Bennyboy1695, Redcat_XVIII |
 | [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV) | [1.11.8] | DragonsPlus |
-| [Create: Drill Drain](https://modrinth.com/mod/DRKSn9G8) | [1.0.13] | Cake, Kipti |
-| [Create: EMI Schematics](https://modrinth.com/mod/5bgqgixq) | [1.1.0] | LiukRast, swzo |
-| [Create: Enchantable Machinery](https://modrinth.com/mod/eqrvp4NK) | [3.6.0] | Cotrin |
 | [Create: Enchantment Industry](https://modrinth.com/mod/JWGBpFUP) | [2.5.3b] | DragonsPlus |
 | [Create: Ez Stock Ticker](https://modrinth.com/mod/qYDytzUC) | [1.1.0] | Cake |
 | [Create: Framed](https://modrinth.com/mod/15fFZ3f4) | [1.8.2] | DakotaPride |
 | [Create: Interiors](https://modrinth.com/mod/r4Knci2k) | [0.6.1] | sudolev, rdh |
 | [Create: Oxidized](https://modrinth.com/mod/X9kjRZeX) | [0.1.3] | Pyzpre |
 | [Create: Pattern Schematics](https://modrinth.com/mod/cpqKG67r) | [2.0.10] | Cake |
-| [Create: Power Chip](https://modrinth.com/mod/xjCy9IA8) | [2.1.0] |  |
 | [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) | [0.6.1] | patryk3211, Da-Negy, rvndm, casvara |
 | [Create: Power Loader](https://modrinth.com/mod/wPQ6GgFE) | [2.0.5-mc1.21.1] | Lysine |
 | [Create: Reactive Stress](https://modrinth.com/mod/HVNJg4pX) | [1.0.3] | Peterhun |
 | [Create: Smart Bounds](https://modrinth.com/mod/kSok4DxT) | [1.0.0] | LiukRast |
 | [Create: Steam 'n' Rails 1.21.1](https://modrinth.com/mod/L3Jv0QZI) | [0.3.0-beta.2+neoforge-mc1.21.1] | PoppyBlossom, Chameleon538, gblfxt |
-| [CreateBetterFps](https://modrinth.com/mod/lMYIHZNH) | [1.1.4] | MoePus |
 | [Curios API](https://modrinth.com/mod/vvuO3ImH) | [9.5.1+1.21.1] | C4 |
 | [Distant Horizons](https://modrinth.com/mod/uCdwusMi) | [3.2.0-b] |  |
 | [Distraction Free Recipes (EMI)](https://modrinth.com/mod/gbJLUhZP) | [1.2.1] | Toni |
@@ -144,6 +128,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [PatPat](https://modrinth.com/mod/dw7LChq9) | [1.3.1+1.21.1+neoforge] | LopyMine, nikita51 |
 | [Placebo](https://modrinth.com/mod/tCkE8p2N) | [9.9.2] | Shadows_of_Fire |
 | [Player Animator](https://modrinth.com/mod/gedNE4y2) | [2.0.4+1.21.1] | KosmX |
+| [Potion Stacks](https://modrinth.com/mod/CQTUbhIo) | [1.0.0] | nouho |
 | [PrickleMC](https://modrinth.com/mod/aaRl8GiW) | [21.1.11] | Darkhax |
 | [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) | [21.1.56] | Fuzs |
 | [Quark](https://modrinth.com/mod/qnQsVE2z) | [4.1-482] | Vazkii, WireSegal, MCVinnyq, Sully |
@@ -175,6 +160,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Zeta](https://modrinth.com/mod/MVARlG2f) | [1.1-40] | Vazkii, quat, IThundxr, Siuol, wiresegal, MehVahdJukaar |
 | [e4all](https://modrinth.com/mod/fB1gJLGX) | [1.6.4] | JustPixel |
 | [spark](https://modrinth.com/mod/l6YH9Als) | [1.10.124] | Luck |
+
 ---
 
 ## Resource packs
