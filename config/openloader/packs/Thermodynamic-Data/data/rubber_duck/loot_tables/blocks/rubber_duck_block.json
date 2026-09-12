@@ -1,0 +1,13 @@
+{
+    "replace"
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "conditions": [
+          {
+            "condition": "minecraft:survives_explosion"
+          }
+        ]
+      }
+    ]
+}

@@ -15,6 +15,12 @@
         },{
             "namespace": "electroenergetics",
             "path": "mixing/transformer_oil.json"
+        },{
+            "namespace": "leafscopperbackport",
+            "path": "copper_nugget_recipe.json"
+        },{
+            "namespace": "leafscopperbackport",
+            "path": "copper_ingot_recipe.json"
         }
         ]
     }
