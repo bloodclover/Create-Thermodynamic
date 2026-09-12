@@ -21,6 +21,21 @@
         },{
             "namespace": "leafscopperbackport",
             "path": "copper_ingot_recipe.json"
+        },{
+            "namespace": "minecraft",
+            "path": "torch.json"
+        },{
+            "namespace": "minecraft",
+            "path": "soul_torch.json"
+        },{
+            "namespace": "minecraft",
+            "path": "lantern.json"
+        },{
+            "namespace": "minecraft",
+            "path": "soul_lantern.json"
+        },{
+            "namespace": "farmersdelight",
+            "path": "stove.json"
         }
         ]
     }

@@ -17,7 +17,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Almanac](https://modrinth.com/mod/Gi02250Z) | [1.5.2] | frikinjay |
 | [Anvil Never Too Expensive](https://modrinth.com/mod/TEOa2X8B) | [1.2.1] | tinytransfem |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | [3.0.9+mc1.21] | squeek |
-| [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3) | [19.2.17] | Team AppliedEnergistics |
+| [Applied Energistics 2](https://appliedenergistics.org) | [19.2.17] | Team AppliedEnergistics |
 | [Architectury](https://modrinth.com/mod/lhGA9TYQ) | [13.0.11] | shedaniel |
 | [Async Logger](https://modrinth.com/mod/zvNzKfGF) | [2.2.2+1.21.1-neoforge] | decce |
 | [AsyncParticles](https://modrinth.com/mod/c3onkd5k) | [21.1.4.2] | Harvey_Husky |
@@ -50,7 +50,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) | [1.3.2] | Simulated Team |
 | [Create Aeronautics Lift Fix](https://modrinth.com/mod/wEWnF0xx) | [1.0.0] |  |
 | [Create Aeronautics: Toolgun](https://modrinth.com/mod/5fUBLqeW) | [0.3.6] | enxv233 |
-| [Create Deco](https://modrinth.com/mod/sMvUb4Rb) | [2.1.3] | Kayla, Talrey, Ordana, Cassian |
 | [Create Diesel Generators](https://modrinth.com/mod/ZM3tt6p1) | [1.21.1-1.3.15] | George VI |
 | [Create Electro Energetics](https://modrinth.com/mod/qYJdIoAx) | [1.21.1-1.1.1] | George VI |
 | [Create Factory Logistics](https://modrinth.com/mod/QMGO17gm) | [1.6.0] | zznty |
@@ -113,6 +112,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Kiwi Library](https://modrinth.com/mod/ufdDoWPd) | [15.8.7+neoforge] | Snownee |
 | [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) | [uhJhCT7X] |  |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | [4.8.11+1.21.1] | LambdAurora |
+| [Leaf's Copper Backport](https://modrinth.com/mod/lp6okdhO) | [1.0.0] | LeafsMatrix |
 | [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) | [21.1.1] | Fuzs |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | [1.5.0] | frikinjay |
 | [Lootr](https://modrinth.com/mod/EltpO5cN) | [1.21.1-1.11.38.124] | Noobanidus |
