@@ -1,11 +1,11 @@
 {
-  "type": "create:crushing",
+  "type": "create:milling",
   "ingredients": [
     {
       "item": "create:scoria"
     }
   ],
-  "processing_time": 100,
+  "processing_time": 200,
   "results": [
     {
       "chance": "0.1",

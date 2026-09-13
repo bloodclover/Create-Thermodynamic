@@ -13,8 +13,14 @@
             "namespace": "create",
             "path": "passive_boiler_heaters.json"
         },{
+            "namespace": "create",
+            "path": "fan_processing_catalysts/blasting.json"
+        },{
+            "namespace": "create",
+            "path": "crushing/compat/quark/moss_block.json"
+        },{
             "namespace": "electroenergetics",
-            "path": "mixing/transformer_oil.json"
+            "path": "compacting/plant_oil.json"
         },{
             "namespace": "leafscopperbackport",
             "path": "copper_nugget_recipe.json"
@@ -36,6 +42,12 @@
         },{
             "namespace": "farmersdelight",
             "path": "stove.json"
+        },{
+            "namespace": "create_connected",
+            "path": "item_application/blasting_catalyst_from_empty.json"
+        },{
+            "namespace": "create_connected",
+            "path": "filling/fan_blasting_catalyst.json"
         }
         ]
     }

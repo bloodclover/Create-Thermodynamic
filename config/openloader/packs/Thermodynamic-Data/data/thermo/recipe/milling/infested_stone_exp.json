@@ -1,11 +1,11 @@
 {
-  "type": "create:crushing",
+  "type": "create:milling",
   "ingredients": [
     {
       "item": "minecraft:infested_stone"
     }
   ],
-  "processing_time": 50,
+  "processing_time": 150,
   "results": [
     {
       "id": "create:experience_nugget",

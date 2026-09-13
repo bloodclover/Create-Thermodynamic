@@ -34,11 +34,11 @@
 
 [categories]
 	automation = true
-	building = false
+	building = true
 	management = true
-	tools = false
+	tools = true
 	tweaks = true
-	world = true
+	world = false
 	mobs = false
 	client = true
 	experimental = false
@@ -94,14 +94,14 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 [building]
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Compressed Blocks" = true
-	"Duskbound Blocks" = true
+	"Duskbound Blocks" = false
 	"Framed Glass" = true
-	"Glass Item Frame" = true
-	"Gold Bars" = true
-	Grate = true
-	Hedges = true
+	"Glass Item Frame" = false
+	"Gold Bars" = false
+	Grate = false
+	Hedges = false
 	"Hollow Logs" = true
 	"Industrial Palette" = true
 	"Japanese Palette" = true
@@ -111,15 +111,15 @@
 	"More Mud Blocks" = true
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
-	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = true
-	Rope = true
-	"Shear Vines" = true
-	Shingles = true
-	"Soul Sandstone" = true
-	Stools = true
-	"Sturdy Stone" = true
-	Thatch = true
+	"Rainbow Lamps" = false
+	"Raw Metal Bricks" = false
+	Rope = false
+	"Shear Vines" = false
+	Shingles = false
+	"Soul Sandstone" = false
+	Stools = false
+	"Sturdy Stone" = false
+	Thatch = false
 	"Variant Bookshelves" = true
 	"Variant Chests" = true
 	"Variant Furnaces" = true
@@ -133,7 +133,7 @@
 		"Light Level" = 15
 
 	[building.compressed_blocks]
-		"Charcoal Block and Blaze Lantern Stay On Fire Forever" = true
+		"Charcoal Block and Blaze Lantern Stay On Fire Forever" = false
 		#Allowed values: [0,)
 		"Charcoal Block Fuel Time" = 16000
 		#Allowed values: [0,)
@@ -142,23 +142,23 @@
 		"Stick Block Fuel Time" = 900
 		"Enable Charcoal Block" = true
 		"Enable Sugar Cane Block" = true
-		"Enable Cactus Block" = true
-		"Enable Chorus Fruit Block" = true
-		"Enable Stick Block" = true
+		"Enable Cactus Block" = false
+		"Enable Chorus Fruit Block" = false
+		"Enable Stick Block" = false
 		"Enable Apple Crate" = true
-		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = true
-		"Enable Carrot Crate" = true
-		"Enable Golden Carrot Crate" = true
-		"Enable Beetroot Crate" = true
-		"Enable Cocoa Bean Sack" = true
-		"Enable Nether Wart Sack" = true
-		"Enable Gunpowder Sack" = true
-		"Enable Berry Sack" = true
-		"Enable Glow Berry Sack" = true
-		"Enable Blaze Lantern" = true
-		"Enable Bonded Leather" = true
-		"Enable Bonded Rabbit Hide" = true
+		"Enable Golden Apple Crate" = false
+		"Enable Potato Crate" = false
+		"Enable Carrot Crate" = false
+		"Enable Golden Carrot Crate" = false
+		"Enable Beetroot Crate" = false
+		"Enable Cocoa Bean Sack" = false
+		"Enable Nether Wart Sack" = false
+		"Enable Gunpowder Sack" = false
+		"Enable Berry Sack" = false
+		"Enable Glow Berry Sack" = false
+		"Enable Blaze Lantern" = false
+		"Enable Bonded Leather" = false
+		"Enable Bonded Rabbit Hide" = false
 
 	[building.glass_item_frame]
 		"Glass Item Frames Update Maps" = true
@@ -327,21 +327,21 @@
 		"Swap Off Hand" = true
 
 [tools]
-	Abacus = true
-	"Ambient Discs" = true
+	Abacus = false
+	"Ambient Discs" = false
 	"Ancient Tomes" = true
-	"Beacon Redirection" = true
-	"Bottled Cloud" = true
-	"Color Runes" = true
-	"Endermosh Music Disc" = true
-	"Parrot Eggs" = true
-	"Pathfinder Maps" = true
-	Pickarang = true
-	"Seed Pouch" = true
-	"Skull Pikes" = true
-	"Slime In A Bucket" = true
-	"Torch Arrow" = true
-	Trowel = true
+	"Beacon Redirection" = false
+	"Bottled Cloud" = false
+	"Color Runes" = false
+	"Endermosh Music Disc" = false
+	"Parrot Eggs" = false
+	"Pathfinder Maps" = false
+	Pickarang = false
+	"Seed Pouch" = false
+	"Skull Pikes" = false
+	"Slime In A Bucket" = false
+	"Torch Arrow" = false
+	Trowel = false
 
 		[tools.abacus.highlight_color]
 			A = 0.4
@@ -501,7 +501,7 @@
 [tweaks]
 	"Armed Armor Stands" = false
 	"Automatic Recipe Unlock" = false
-	"Better Elytra Rocket" = true
+	"Better Elytra Rocket" = false
 	"Campfires Boost Elytra" = false
 	"Compasses Work Everywhere" = false
 	"Coral On Cactus" = false
@@ -769,7 +769,7 @@
 	"Blossom Trees" = false
 	"Cherry Grove Water Petals" = false
 	"Chorus Vegetation" = false
-	Corundum = true
+	Corundum = false
 	"Fairy Rings" = true
 	"Fallen Logs" = false
 	"Glimmering Weald" = false
@@ -2009,3 +2009,5 @@
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
+		#Set this to true to make the totem drop everything when punched once
+		"Drop All Items On Hit" = false

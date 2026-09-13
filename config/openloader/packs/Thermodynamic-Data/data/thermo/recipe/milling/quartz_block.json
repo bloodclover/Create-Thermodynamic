@@ -1,11 +1,11 @@
 {
-  "type": "create:crushing",
+  "type": "create:milling",
   "ingredients": [
     {
       "item": "minecraft:quartz_block"
     }
   ],
-  "processing_time": 50,
+  "processing_time": 150,
   "results": [
     {
       "id": "minecraft:quartz",

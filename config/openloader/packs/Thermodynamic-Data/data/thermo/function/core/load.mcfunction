@@ -1,2 +1,2 @@
-say Loaded Thermo Data!
+tellraw @a "Reloaded!"
 gamerule waterSourceConversion false
