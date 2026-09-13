@@ -1,5 +1,7 @@
 gamma:1.0
 lang:en_us
+tutorialStep:none
+skipMultiplayerWarning:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -93,7 +95,7 @@ key_key.travelersbackpack.toggle_upgrade_3:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
+key_key.disable_voice_chat:key.keyboard.comma
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
@@ -105,7 +107,7 @@ key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_minimap_server_profiles:key.keyboard.unknown
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.b
+key_gui.xaero_new_waypoint:key.keyboard.n
 key_gui.xaero_waypoints_key:key.keyboard.u
 key_gui.xaero_enlarge_map:key.keyboard.z
 key_gui.xaero_toggle_map:key.keyboard.unknown
