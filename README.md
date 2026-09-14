@@ -20,8 +20,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3) | [19.2.17] | Team AppliedEnergistics |
 | [Architectury](https://modrinth.com/mod/lhGA9TYQ) | [13.0.11] | shedaniel |
 | [Async Logger](https://modrinth.com/mod/zvNzKfGF) | [2.2.2+1.21.1-neoforge] | decce |
-| [AsyncParticles](https://modrinth.com/mod/c3onkd5k) | [21.1.4.2] | Harvey_Husky |
-| [Azimuth](https://modrinth.com/mod/RpH8tmT1) | [1.4.8] | Cake |
+| [AsyncParticles](https://modrinth.com/mod/c3onkd5k) | [21.1.4.3] | Harvey_Husky |
 | [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) | [2.4.1] | Thosea |
 | [BaguetteLib](https://modrinth.com/mod/OfKzpbRU) | [2.0.6] | Leclowndu93150 |
 | [Blåhaj](https://modrinth.com/mod/xC5B7AZB) | [1.0.0] | hibi, infoplayerstart, DaFuqs, rdh, RedrcknRbn |
@@ -45,7 +44,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Corpse](https://modrinth.com/mod/WrpuIfhw) | [1.21.1-1.1.13] | Max Henkel |
 | [Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1) | [4.0.1] | Leclowndu93150 |
 | [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) | [1.11.12] | KostromDan |
-| [Crawl on Demand](https://modrinth.com/mod/wcXLQVhg) | [1.2.0] | Talilon |
 | [Create](https://modrinth.com/mod/LNytGWDc) | [6.0.10] | simibubi |
 | [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) | [1.3.2] | Simulated Team |
 | [Create Aeronautics Lift Fix](https://modrinth.com/mod/wEWnF0xx) | [1.0.0] |  |
@@ -71,7 +69,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create: Ez Stock Ticker](https://modrinth.com/mod/qYDytzUC) | [1.1.2] | Cake |
 | [Create: Framed](https://modrinth.com/mod/15fFZ3f4) | [1.8.2] | DakotaPride |
 | [Create: Interiors](https://modrinth.com/mod/r4Knci2k) | [0.6.1] | sudolev, rdh |
-| [Create: Oxidized](https://modrinth.com/mod/X9kjRZeX) | [0.1.3] | Pyzpre |
 | [Create: Pattern Schematics](https://modrinth.com/mod/cpqKG67r) | [2.0.10] | Cake |
 | [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) | [0.6.1] | patryk3211, Da-Negy, rvndm, casvara |
 | [Create: Power Loader](https://modrinth.com/mod/wPQ6GgFE) | [2.0.5-mc1.21.1] | Lysine |
@@ -102,13 +99,13 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [GuideME](https://modrinth.com/mod/Ck4E7v7R) | [21.1.17] | shartte |
 | [Hardcore Torches](https://modrinth.com/mod/Ru97clEJ) | [1.21.0-2.5] | Wolfie_Waffle, + Thanks to Commoble, ctrlaltmilk, Choonster |
 | [Hostile Neural Networks](https://modrinth.com/mod/6bLUlbZn) | [6.5.1] | Shadows_of_Fire |
-| [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) | [1.6.13+1.21.1] | RK_01 |
+| [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) | [1.6.14+1.21.1] | RK_01 |
 | [Iris](https://modrinth.com/mod/YL57xq9U) | [1.8.14-beta.1+mc1.21.1] | coderbot, IMS212 |
 | [Iris Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) | [2.4.0] | Leon |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | [15.10.6+neoforge] | Snownee |
 | [Jade Addons](https://modrinth.com/mod/xuDOzCLy) | [6.1.1+neoforge] | Snownee |
 | [Jade Sable Compat](https://modrinth.com/mod/jCrJ4iGH) | [1.3.0] |  |
-| [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) | [19.56.0.438] | mezz |
+| [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) | [19.56.0.439] | mezz |
 | [Kiwi Library](https://modrinth.com/mod/ufdDoWPd) | [15.8.7+neoforge] | Snownee |
 | [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) | [uhJhCT7X] |  |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | [4.8.11+1.21.1] | LambdAurora |
@@ -116,11 +113,11 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) | [21.1.1] | Fuzs |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | [1.5.0] | frikinjay |
 | [Lootr](https://modrinth.com/mod/EltpO5cN) | [1.21.1-1.11.38.125] | Noobanidus |
+| [MezzConfig](https://modrinth.com/mod/7tEfOcA7) | [0.5.8] | mezz |
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | [1.21-1.10] | MehVahdJukaar |
 | [ModernFix](https://modrinth.com/mod/nmDcB62a) | [5.27.24+mc1.21.1] | embeddedt |
 | [More Culling](https://modrinth.com/mod/51shyZVL) | [1.0.10] | FX - PR0CESS, 1Foxy2 |
 | [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) | [2.26.1] | Ivan Molodetskikh (YaLTeR) |
-| [Nature's Compass](https://modrinth.com/mod/fPetb5Kh) | [1.21.1-3.4.0-neoforge] | ChaosTheDude |
 | [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) | [1.21.1-v2.9.1] | Aizistral |
 | [OpenLoader](https://modrinth.com/mod/KwWsINvD) | [21.1.5] | Darkhax |
 | [PacketFixer](https://modrinth.com/mod/c7m1mi73) | [3.3.1] | TonimatasDEV |
@@ -145,10 +142,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) | [4.1.0] | Rynnavinx |
 | [Some Assembly Required](https://modrinth.com/mod/jZi8ogTA) | [5.2.8] | Wouter |
 | [Storage Drawers](https://modrinth.com/mod/guitPqEi) | [13.11.4] | Texelsaur |
-| [Strut Your Stuff](https://modrinth.com/mod/sHO3MhQx) | [1.3.1] | Cake |
-| [SuperMartijn642's Config Library](https://modrinth.com/mod/LN9BxssP) | [1.1.8] | SuperMartijn642 |
-| [SuperMartijn642's Core Lib](https://modrinth.com/mod/rOUBggPv) | [1.1.24] | SuperMartijn642 |
-| [Trash Cans](https://modrinth.com/mod/4QrnfueM) | [1.1.0] | SuperMartijn642 |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | [10.1.39] | Tiviacz1337 |
 | [TxniLib](https://modrinth.com/mod/vBbPDuOs) | [1.0.24] | Toni |
 | [WorldEdit](https://modrinth.com/mod/1u6JkXh5) | [7.3.8+6939-7d32b45] | EngineHub |
