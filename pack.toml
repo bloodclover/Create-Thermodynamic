@@ -1,0 +1,13 @@
+name = "Create: Thermodynamics"
+author = "bloodclover"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a5098f7a341a18852f18b0821f74925491da6108e9e4db7f17485d1db8ef89e3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"

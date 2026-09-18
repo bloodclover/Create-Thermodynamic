@@ -1,0 +1,16 @@
+filename = 'create_reactive_stress-neo-21.1-1.3.jar'
+name = 'Create: Reactive Stress (CRS)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '21874be4ccb5ae5c8082159481f895a1328bcc5aab1e70fb350cf68bfd9ad764152a6d317017ee7023aea44a20870c70fd999de001877d2c79b45c9241cf0126'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HVNJg4pX/versions/3yPjDn8U/create_reactive_stress-neo-21.1-1.3.jar'
+
+[update.modrinth]
+mod-id = 'HVNJg4pX'
+version = '3yPjDn8U'
