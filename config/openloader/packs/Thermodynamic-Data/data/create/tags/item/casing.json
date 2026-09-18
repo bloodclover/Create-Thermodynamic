@@ -1,0 +1,6 @@
+{
+  "replace": true,
+  "values": [
+    "create_nuclear_age:reactor_casing"
+  ]
+}

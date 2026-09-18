@@ -16,9 +16,6 @@
             "namespace": "create",
             "path": "fan_processing_catalysts/blasting.json"
         },{
-            "namespace": "create",
-            "path": "crushing/compat/quark/moss_block.json"
-        },{
             "namespace": "electroenergetics",
             "path": "compacting/plant_oil.json"
         },{
@@ -48,6 +45,12 @@
         },{
             "namespace": "create_connected",
             "path": "filling/fan_blasting_catalyst.json"
+        },{
+            "namespace": "create_nuclear_age",
+            "path": "item_application/heat_casing.json"
+        },{
+            "namespace": "create_nuclear_age",
+            "path": "hazmat_suit.json"
         }
         ]
     }

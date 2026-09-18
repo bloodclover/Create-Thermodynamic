@@ -95,8 +95,8 @@ key_key.travelersbackpack.toggle_upgrade_3:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.comma
-key_key.hide_icons:key.keyboard.h
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
 key_key.voice_chat:key.keyboard.v
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
@@ -142,9 +142,7 @@ key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_railways.keyinfo.bogey_menu:key.keyboard.left.alt
 key_railways.keyinfo.cycle_menu:key.keyboard.left.alt
 key_key.carry.desc:key.keyboard.unknown
-key_key.hostilenetworks.open_deep_learner:key.keyboard.i
-key_key.crawlondemand.toggle_crawl:key.keyboard.left.alt
-key_key.crawlondemand.crawl:key.keyboard.unknown
+key_key.hostilenetworks.open_deep_learner:key.keyboard.u
 key_patpat.keybinding.pat:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
