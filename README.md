@@ -1,20 +1,21 @@
-# Create-Thermodynamic
-A modpack that follows the laws of thermodynamics*
+## Introduction
+Create: Thermodynamics is a modpack which makes energy production harder and "more realistic" by making non-renewable energy sources not infinite, such as removing infinite lava.
 
-Basically removes infinite energy and makes fossil fuels non-renewable, such as coal and crude oil.
-Which means that yes, the bottomless supply of lava in regular create is gone.
+## Contents
+This modpack features PowerGrid, a realistic electricity mod that is required to use technology such as AE2. It is also the main way to light up your world without using torches or lanterns, which need to be replaced if they burn up.
 
-## Mod list
+The goal of this pack is to insentivise infrastructure such as an electrical grid and train networks to supply fossil fuels to produce energy.
 
-Note: The versions are ripped from the mod jar and not modrinth/curseforge.
-Downloads can be found at (Insert Modpack link here) - do not try to download and install using the links below, this is for reference. (Tbf its fine for now lol)
+## Included Software
 
----
+Downloads can be found at [Create: Thermodynamics on Modrinth](https://modrinth.com/mod/createthermodynamics) - do not try to download and install using the links below, this is for reference.
+
+<details>
+<summary>Modlist (138)</summary>
 
 | Name | Version | Author |
 | --- | --- | --- |
 | [Aileron](https://modrinth.com/mod/b8kG1VGq) | [1.21.1-neoforge-1.1.4] | Team Lodestar |
-| [Almanac](https://modrinth.com/mod/Gi02250Z) | [1.5.2] | frikinjay |
 | [Anvil Never Too Expensive](https://modrinth.com/mod/TEOa2X8B) | [1.2.1] | tinytransfem |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | [3.0.9+mc1.21] | squeek |
 | [Applied Energistics 2](https://modrinth.com/mod/XxWD5pD3) | [19.2.17] | Team AppliedEnergistics |
@@ -22,7 +23,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Async Logger](https://modrinth.com/mod/zvNzKfGF) | [2.2.2+1.21.1-neoforge] | decce |
 | [AsyncParticles](https://modrinth.com/mod/c3onkd5k) | [21.1.4.3] | Harvey_Husky |
 | [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) | [2.4.1] | Thosea |
-| [BaguetteLib](https://modrinth.com/mod/OfKzpbRU) | [2.0.6] | Leclowndu93150 |
 | [Blåhaj](https://modrinth.com/mod/xC5B7AZB) | [1.0.0] | hibi, infoplayerstart, DaFuqs, rdh, RedrcknRbn |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | [21.1.81] | Darkhax |
 | [CC: CPG Pinout](https://modrinth.com/mod/sMa4MaGz) | [0.2.1] |  |
@@ -30,19 +30,15 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [CC: Sable](https://modrinth.com/mod/OPNBxiZD) | [1.3.4] | TechTastic |
 | [CC: Tweaked](https://modrinth.com/mod/gu7yAYhd) | [1.120.2] | Daniel Ratcliffe, Aaron Mills, SquidDev |
 | [CC:C Bridge](https://modrinth.com/mod/fXt291FO) | [1.7.3] | Sammy L. Koch |
-| [CROWNS](https://modrinth.com/mod/RCsqeVSp) | [2.2.5] | Real Ant Engineer |
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | [2.2.6] | Tschipp, PurpliciousCow |
-| [Cerulean](https://modrinth.com/mod/dv57xmf9) | [1.0.0] | Toni, Mephodio |
 | [Chloride](https://modrinth.com/mod/yD9qW65f) | [1.8.1] | SrRapero720 |
 | [Climbable Ropes for Create Aeronautics](https://modrinth.com/mod/jImqv1M5) | [2.1.3] | saunhardy |
 | [Cloth Config v15 API](https://modrinth.com/mod/9s6osm5g) | [15.0.140] | shedaniel |
 | [Clumps](https://modrinth.com/mod/Wnxd13zP) | [19.0.0.1] | Jared |
-| [Companion](https://modrinth.com/mod/4w0EzGRW) | [NONE] | Snownee |
 | [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR) | [0.4.0-alpha.0.120+1.21.1] | RelativityMC, ishland |
 | [Controlify](https://modrinth.com/mod/DOUdJVEm) | [3.0.1+lts+1.21.1-neoforge] | isXander |
 | [Controlling](https://modrinth.com/mod/xv94TkTM) | [19.0.5] | Jaredlll08 |
 | [Corpse](https://modrinth.com/mod/WrpuIfhw) | [1.21.1-1.1.13] | Max Henkel |
-| [Corpse Curios Compatibility](https://modrinth.com/mod/pJGcKPh1) | [4.0.1] | Leclowndu93150 |
 | [Crash Assistant](https://modrinth.com/mod/ix1qq8Ux) | [1.11.12] | KostromDan |
 | [Create](https://modrinth.com/mod/LNytGWDc) | [6.0.10] | simibubi |
 | [Create Aeronautics](https://modrinth.com/mod/oWaK0Q19) | [1.3.2] | Simulated Team |
@@ -52,7 +48,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create Electro Energetics](https://modrinth.com/mod/qYJdIoAx) | [1.21.1-1.1.1] | George VI |
 | [Create Factory Logistics](https://modrinth.com/mod/QMGO17gm) | [1.6.0] | zznty |
 | [Create Jetpack](https://modrinth.com/mod/UbFnAd4l) | [5.2.1] | possible_triangle |
-| [Create Liquid Fuel](https://modrinth.com/mod/sH9tXU9f) | [3.0.0-1.21.1] | Forsteri |
 | [Create More: Parallel Pipes](https://modrinth.com/mod/5jfUeix5) | [2.0.2] | Krei |
 | [Create Ore Excavation](https://modrinth.com/mod/ResbpANg) | [1.6.8] | tom5454 |
 | [Create Picky Wheels](https://modrinth.com/mod/Zotbxaw6) | [1.21.1-6.0.9-6] | zeh |
@@ -69,6 +64,7 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Create: Ez Stock Ticker](https://modrinth.com/mod/qYDytzUC) | [1.1.2] | Cake |
 | [Create: Framed](https://modrinth.com/mod/15fFZ3f4) | [1.8.2] | DakotaPride |
 | [Create: Interiors](https://modrinth.com/mod/r4Knci2k) | [0.6.1] | sudolev, rdh |
+| [Create: Nuclear Age](https://modrinth.com/mod/lS5xwTPN) | [0.9+mc1.21.1] | Antarctic Gardens, SiliconCarbideCube |
 | [Create: Pattern Schematics](https://modrinth.com/mod/cpqKG67r) | [2.0.10] | Cake |
 | [Create: Power Grid](https://modrinth.com/mod/eWiBLJ9R) | [0.6.1] | patryk3211, Da-Negy, rvndm, casvara |
 | [Create: Power Loader](https://modrinth.com/mod/wPQ6GgFE) | [2.0.5-mc1.21.1] | Lysine |
@@ -91,7 +87,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Fast Noise Mod](https://modrinth.com/mod/OnlVIpq5) | [1.0.13+1.21.1+neoforge] | ZenXArch |
 | [Ferrite Core](https://modrinth.com/mod/uXXizFIs) | [7.0.3] | malte0811 |
 | [Flerovium](https://modrinth.com/mod/4Rh1Mobu) | [1.1.3] | MoePus |
-| [Formic API](https://modrinth.com/mod/Wun33LcK) | [2.4.2] | Real Ant Engineer |
 | [Fusion](https://modrinth.com/mod/p19vrgc2) | [1.3.15+a] | SuperMartijn642 |
 | [Fzzy Config](https://modrinth.com/mod/hYykXjDp) | [0.7.6+1.21+neoforge] | fzzyhmstrs |
 | [Glodium](https://modrinth.com/mod/UhW5uCKw) | [1.21-2.2-neoforge] | GlodBlock |
@@ -110,8 +105,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) | [uhJhCT7X] |  |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | [4.8.11+1.21.1] | LambdAurora |
 | [Leaf's Copper Backport](https://modrinth.com/mod/lp6okdhO) | [1.0.0] | LeafsMatrix |
-| [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) | [21.1.1] | Fuzs |
-| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | [1.5.0] | frikinjay |
 | [Lootr](https://modrinth.com/mod/EltpO5cN) | [1.21.1-1.11.38.125] | Noobanidus |
 | [MezzConfig](https://modrinth.com/mod/7tEfOcA7) | [0.5.8] | mezz |
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | [1.21-1.10] | MehVahdJukaar |
@@ -132,7 +125,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Redirected](https://modrinth.com/mod/hhnR8xqU) | [1.0.0] | Toni |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | [2.2.3+mc1.21.1] | FlashyReese |
 | [Sable](https://modrinth.com/mod/T9PomCSv) | [2.0.5] | RyanHCode |
-| [Sable-Collision damage](https://modrinth.com/mod/Jm4nvDTr) | [1.0.8] |  |
 | [SableMassView](https://modrinth.com/mod/f5uobnkD) | [1.0.0] |  |
 | [Searchables](https://modrinth.com/mod/fuuu3xnx) | [1.0.2] | Jaredlll08 |
 | [Separate Sable Render Distance](https://modrinth.com/mod/fJ183v3D) | [1.8.6] | Ranold |
@@ -144,7 +136,6 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Storage Drawers](https://modrinth.com/mod/guitPqEi) | [13.11.4] | Texelsaur |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | [10.1.39] | Tiviacz1337 |
 | [TxniLib](https://modrinth.com/mod/vBbPDuOs) | [1.0.24] | Toni |
-| [WorldEdit](https://modrinth.com/mod/1u6JkXh5) | [7.3.8+6939-7d32b45] | EngineHub |
 | [Xaero's Minimap](https://modrinth.com/mod/1bokaNcj) | [26.5.0] | xaero96 |
 | [Xaero's World Map](https://modrinth.com/mod/NcUtCpym) | [1.46.0] | xaero96 |
 | [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) | [87.0.0] | Sunekaer |
@@ -152,16 +143,11 @@ Downloads can be found at (Insert Modpack link here) - do not try to download an
 | [Zeta](https://modrinth.com/mod/MVARlG2f) | [1.1-40] | Vazkii, quat, IThundxr, Siuol, wiresegal, MehVahdJukaar |
 | [e4all](https://modrinth.com/mod/fB1gJLGX) | [2.1.0] | JustPixel |
 | [spark](https://modrinth.com/mod/l6YH9Als) | [1.10.124] | Luck |
+</details>
 
----
-
-## Resource packs
-
----
+### Optional Resource Packs
 
 | Name | Version | Author |
 | --- | --- | --- |
 | [Fusion Connected Glass](https://modrinth.com/project/xuN3KzPl) | [1.0.1 1.20-1.21.8] | SuperMartijn642 |
 | [Fusion Emissive Ores](https://modrinth.com/project/anEmXbCW) | [1.0.2 1.20-1.21.8] | SuperMartijn642 |
-
----
