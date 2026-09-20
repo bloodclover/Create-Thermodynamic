@@ -19,7 +19,7 @@
 		#Tool slots accept any item
 		toolSlotsAcceptEverything = false
 		#List of items that can be put in tool slots (Use registry names, for example: "minecraft:apple", "minecraft:flint")
-		toolSlotsAcceptableItems = ["#minecraft:tools", "create:wrench", "powergrid:wire_cutters", "minecraft:name_tag", "powergrid:multimeter"]
+		toolSlotsAcceptableItems = ["#minecraft:tools", "create:wrench", "powergrid:wire_cutter", "minecraft:name_tag", "powergrid:multimeter", "cmparallelpipes:pipe_wrench"]
 		#List of items that can't be put in backpack inventory (Use registry names, for example: "minecraft:apple", "minecraft:flint")
 		blacklistedItems = []
 		#Allows putting shulker boxes and other items with inventory in backpack
