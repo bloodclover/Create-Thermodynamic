@@ -56,9 +56,9 @@
 	# Range: > 1
 	defaultSoulTorchFuel = 48000
 	#Torches will become unlit when broken.
-	torchesExtinguishWhenBroken = true
+	torchesExtinguishWhenBroken = false
 	#Overrides torchesExtinguishWhenBroken. Torches will be fully expended when broken (burnt torch or stick).
-	torchesBurnWhenDropped = true
+	torchesBurnWhenDropped = false
 	#0: Burnt torches drop as burnt torches
 	#1: Burnt torches drop as sticks
 	#2: Burnt torches drop nothing
@@ -66,9 +66,9 @@
 	# Range: 0 ~ 2
 	burntDrop = 0
 	#Torches will be affected when in the rain. Will smolder or become unlit depending on torchesSmolder.
-	torchesRain = true
+	torchesRain = false
 	#If a torch is in the rain and torchesRain = true, then it will smolder and burn fuel at 1/3rd the normal rate instead of becoming unlit.
-	torchesSmolder = true
+	torchesSmolder = false
 	#If true, torches must be lit after crafting.
 	craftUnlit = false
 	#Right click a torch without holding fuel or a lighter to unlight it.
@@ -78,17 +78,17 @@
 	#2: When going underwater, torches in inventory will be extinguished
 	# Default: 2
 	# Range: 0 ~ 2
-	invExtinguishInWater = 1
+	invExtinguishInWater = 0
 	#0: When in rain, torches in your inventory will be unaffected
 	#1: When in rain, torches in mainhand or offhand will be extinguished or smolder
 	#2: When in rain, torches in inventory will be extinguished or smolder
 	# Default: 2
 	# Range: 0 ~ 2
-	invExtinguishInRain = 1
+	invExtinguishInRain = 0
 	#How many torches are crafted.
 	# Default: 1
 	# Range: > 1
-	torchCraftAmount = 1
+	torchCraftAmount = 4
 
 #Lantern Settings
 [lantern]

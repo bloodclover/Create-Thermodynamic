@@ -1,17 +1,19 @@
 ## Introduction
 Create: Thermodynamics is a modpack which makes energy production harder and "more realistic" by making non-renewable energy sources not infinite, such as removing infinite lava.
+It makes the game harder and more tedious, incentivising creative problem solving and planning.
 
 ## Contents
-This modpack features PowerGrid, a realistic electricity mod that is required to use technology such as AE2. It is also the main way to light up your world without using torches or lanterns, which need to be replaced if they burn up.
+This modpack features PowerGrid, a realistic electricity mod that is required to use technology such as AE2. It is also the main way to light up your world without using torches or lanterns, which need to be replaced or refueled if they burn out.
 
 The goal of this pack is to insentivise infrastructure such as an electrical grid and train networks to supply fossil fuels to produce energy.
+
 
 ## Included Software
 
 Downloads can be found at [Create: Thermodynamics on Modrinth](https://modrinth.com/mod/createthermodynamics) - do not try to download and install using the links below, this is for reference.
 
 <details>
-<summary>Modlist (138)</summary>
+<summary>Modlist (137)</summary>
 
 | Name | Version | Author |
 | --- | --- | --- |
@@ -103,7 +105,6 @@ Downloads can be found at [Create: Thermodynamics on Modrinth](https://modrinth.
 | [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) | [19.56.0.439] | mezz |
 | [Kiwi Library](https://modrinth.com/mod/ufdDoWPd) | [15.8.7+neoforge] | Snownee |
 | [Kotlin for Forge](https://modrinth.com/mod/ordsPcFz) | [uhJhCT7X] |  |
-| [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | [4.8.11+1.21.1] | LambdAurora |
 | [Leaf's Copper Backport](https://modrinth.com/mod/lp6okdhO) | [1.0.0] | LeafsMatrix |
 | [Lootr](https://modrinth.com/mod/EltpO5cN) | [1.21.1-1.11.38.125] | Noobanidus |
 | [MezzConfig](https://modrinth.com/mod/7tEfOcA7) | [0.5.8] | mezz |
@@ -150,4 +151,3 @@ Downloads can be found at [Create: Thermodynamics on Modrinth](https://modrinth.
 | Name | Version | Author |
 | --- | --- | --- |
 | [Fusion Connected Glass](https://modrinth.com/project/xuN3KzPl) | [1.0.1 1.20-1.21.8] | SuperMartijn642 |
-| [Fusion Emissive Ores](https://modrinth.com/project/anEmXbCW) | [1.0.2 1.20-1.21.8] | SuperMartijn642 |

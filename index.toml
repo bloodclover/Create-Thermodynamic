@@ -6,11 +6,11 @@ hash = "357298c6bc3d6f883853dc39395bef09fda3ff1bf37822ff10002ca9c2976756"
 
 [[files]]
 file = "README.md"
-hash = "fe2728afd34fbc4739ce92bc754980a2ebeaf64c4654bf3761352d4ad142a307"
+hash = "c8811bb76839aa9d6430f009cfc2ceb7add903253ca7888333955468e0d5f612"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6174a54a0985976877a13cec670e40d67a2da20e3b5fa12b5c47edb2299e9717"
+hash = "cde586cac2e4228ef8fa6ba9120358d4fcb24a902cc813454262feec57d5598b"
 
 [[files]]
 file = "config/carryon-common.toml"
@@ -54,7 +54,7 @@ hash = "293afaf60e6e4e67368b977ffd8d765d6d46a406d3ce7323bce5d6102ffd113a"
 
 [[files]]
 file = "config/hardcore_torches-common.toml"
-hash = "56a27d6d351e3b0a04154df75d0f12d96fe51b3dc3ef8c3beb5166b1e3c42431"
+hash = "111b8ddb7a59833d272adecaaad9daa8b4dc556d3d715bc5778904f4b7c0aa7a"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -325,44 +325,20 @@ file = "config/openloader/packs/Thermodynamic-Data/pack.mcmeta"
 hash = "dce94a38bf12c7a2a6f45ef1b22d2bd3a4c1da9ba31d4e5456e29bc610f827e2"
 
 [[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/assets/create_nuclear_age/lang/en_us.json"
-hash = "94286e33b35d4acbc62700d65ac9cc6bd45723e1abd18348b6c4d0c51e5f9741"
-
-[[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/assets/create_nuclear_age/textures/block/heat_casing.png"
-hash = "75df99a1a3177854ebb9fa210f99ef08c76f80aa4841390a8c9b30ef33417c61"
-
-[[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/assets/create_nuclear_age/textures/block/heat_casing_connected.png"
-hash = "082b9294d09a31abdaf85038eac411aa66680615047bd4d2a39e67d114de3cde"
-
-[[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/assets/create_power_loader/lang/en_us.json"
-hash = "2adfea290d7b27752777aa690567d44cc54605fcb49c913955e18854e611178e"
-
-[[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/assets/farmersdelight/lang/en_us.json"
-hash = "5e3026e0681c2201c24d9a43d568dcf77e40b27126f18c0940528b91a1dfd2d6"
-
-[[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/assets/minecraft/texts/splashes.txt"
-hash = "58bfdb28abcd9d81067eefc99a2324dfc5c9b2b864b7989762f192377cb608f0"
-
-[[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/assets/powergrid/lang/en_us.json"
-hash = "fe89fcb0dd65800124c0d15a5ff1c658b6aac5ffee71ed271e43802ffe56afa7"
-
-[[files]]
-file = "config/openloader/packs/Thermodynamic-Resources/pack.mcmeta"
-hash = "bc23bc2c25eca0b5d915f239d7bfdd9e1b8a73212a6774031fb46a8b96ac16c9"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "e157d27d16c0d06948140d7021c6047a5d7b1c110a38923d1e353445efa3ae4d"
 
 [[files]]
 file = "config/sablecollisiondamage-common.toml"
 hash = "574d9a16021ab016d9abd19e11441d0fdef0cf4bad89f2d43d7e2509dd57562e"
+
+[[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "e9f9ac04e5ff3b046e10ec6066906cfaa614751272aca6e11943fd33958f97ec"
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "98a037dcb8ae58d7b8e0213f69233ed4e7f9299a30beb50308248d3ff84e2233"
 
 [[files]]
 file = "defaultconfigs/copycats-server.toml"
@@ -390,7 +366,7 @@ hash = "b40d47bbd43b3362c906202e081f5797fcfbc4ce091cc95575012cf8d9e4dde0"
 
 [[files]]
 file = "defaultconfigs/travelersbackpack-server.toml"
-hash = "62b94af485f9ec5ddd7f1cc5ad4bfc4a935e4212f925e3368c48463465795910"
+hash = "d21c408e6ee80a6bf083996ae1fa41306c56bcbb7f1adaaf0760ca1bce0e4a7e"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -425,16 +401,6 @@ metafile = true
 [[files]]
 file = "mods/asynclogger.pw.toml"
 hash = "e7b07d49a1f8fb7865627bfd7a4b7cc6a64df842b213e08a2a089ee567aa3fb9"
-metafile = true
-
-[[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "e7cfcfe4c6b46eb8824226a22e5b326fb3677d2597cd562418501f1378ef051c"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "329a89d99fea0496482679dfe80a1bc0a187be91e52f95c4d0b8ac8236ab1e24"
 metafile = true
 
 [[files]]
@@ -493,11 +459,6 @@ hash = "a00dc579e838dd0f324b9aa06fa7a819cf2c407cd95fe90c47a136f82ac3732e"
 metafile = true
 
 [[files]]
-file = "mods/chloride.pw.toml"
-hash = "65bdbcee42d7c3b9a781526ad779b9779ca2025d113afb8b083b08bbe1fe8005"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a17e9d14a3efb24b659673f58de17eacf700e46062d91b6a45359145dc220282"
 metafile = true
@@ -510,16 +471,6 @@ metafile = true
 [[files]]
 file = "mods/companion.pw.toml"
 hash = "8dc69f86cac355fc484b6940b4abc441b56ac176d1524845c39c0f1733b29bf4"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "156ff47ce5ad352a0362b7de7b40e44fb361f4473a377420c026f72315b60809"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "91ca2a0e6c511aa3df0ca6d433fa9e52c1799fc6ea8489bee6b6825b39503035"
 metafile = true
 
 [[files]]
@@ -540,16 +491,6 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "3aec1438028c83ec3d8623b1a15a0d480fb7ad7210810a63d5342f2f46a9563b"
-metafile = true
-
-[[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "16e85850a04eaeaab8f04d12d3989318996c743f7297cfc0830577caa510bd4e"
-metafile = true
-
-[[files]]
-file = "mods/create-aeronautics-(sable)-mass-view.pw.toml"
-hash = "5ba3555e1381844df2869d4ec53a02ec4255167351ec7b742e8d2814fe4c8f44"
 metafile = true
 
 [[files]]
@@ -590,11 +531,6 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "ec761394feb2d1dca2a933d08fb3aae74fc4e8cb4bbf1fa5fe2638f727dd2dd1"
-metafile = true
-
-[[files]]
-file = "mods/create-easy-stock-ticker.pw.toml"
-hash = "ce452af65d3329448a8ed5f7babe593ea48e186fa15c14d75c31e0c4d8bbc2bc"
 metafile = true
 
 [[files]]
@@ -663,11 +599,6 @@ hash = "0620cfb231522104c28d83ea3d1da67c263000eb07c5c1b32289a51bc915ddb2"
 metafile = true
 
 [[files]]
-file = "mods/create-smart-bounds.pw.toml"
-hash = "6c0ec6c295aec9609c473458880758378a4d536668be8079f2e7099e567589aa"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "289a69dc9eee413aa1d7873e9492480d026c7b93dce5520288991e3b109c6b0a"
 metafile = true
@@ -703,18 +634,8 @@ hash = "e22f9e981c1044242d6f4b759dfb76f276924f962b58fc346ec2164d281c0ba9"
 metafile = true
 
 [[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "662b7d40eb181816a7dc1a0e74f076a92b0b2b3830fb15110161a1f124caacf5"
-metafile = true
-
-[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "45985653c3bb215b61d17f3a2f0b9ec8a918cafa048325691d0d51d2f320e07d"
-metafile = true
-
-[[files]]
-file = "mods/e4all.pw.toml"
-hash = "edfb6ad3c274c60a503cac8001bbdcc94a2ca2bb5a9cf1a6340899efa5468987"
 metafile = true
 
 [[files]]
@@ -730,11 +651,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "04f50ff2990e02de6aafd8c9178b8e78c23d9ec991975b38c5424e0f714d8270"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "d65487b0b74810f8591c687f7ddd533be382605845849aaf83207d71025608a3"
 metafile = true
 
 [[files]]
@@ -768,16 +684,6 @@ hash = "bef7bce8eafcdbe82e8cad178e96d581c2431eb263c53d71fb3b77222ad22a8a"
 metafile = true
 
 [[files]]
-file = "mods/flerovium.pw.toml"
-hash = "85b505adc56e4f3a33b809e1807da075e850b320c0e66a8d3e83ffbebf981eec"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "21abacc788e2649f666e460074fe3b2f03ad7f4f2de81eb5ccc1834732f64eb8"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "ec458cc2bfcc217707c183110bcd5a1c2275e8a6d541f06e1659bdfcffcec9b1"
 metafile = true
@@ -808,33 +714,13 @@ hash = "3aeb065c78a5cb87d213de35a124191eb3a72fec2764c395dbb7f58c73da093f"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "4ec16170c93e2b6466eb6862c0937e89ca54c8409724c3585dd0ddd84bfc43d6"
-metafile = true
-
-[[files]]
 file = "mods/interiors.pw.toml"
 hash = "22d1ae733fa7449472da0fcec796983b5d9b918e4f2f32c7519f8005935d4545"
 metafile = true
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "bd504e5ceb4625276dded6bc3ca80187c48df4863a1d23b51fc7ecd07f214b01"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "c53d68d9ea94e21743c930ffcdb32a75deb8d988f0eaa318281c4102ca1a2bf4"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "49dcb5862056b08910e8e0b0aa82f6c2a2e56b96596e58ba69942e2ef8c9694c"
-metafile = true
-
-[[files]]
-file = "mods/jade-sable-compat.pw.toml"
-hash = "a88f477b22c05aa613168805a2c34c9c3b9716adda390f4c2772b8cd23b31369"
 metafile = true
 
 [[files]]
@@ -858,11 +744,6 @@ hash = "a4c1bee762f0ff7d0a186a9ce81ac8d5644d980f884f76ba3f314e9c8b59a321"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "490427ca07437aae7c3c27dbb5c374da322f7094f3982e1c4ad92682634f76b9"
-metafile = true
-
-[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "3ff450759976dc1723b8ec466fe0b6061b564b6e4b7fda90434605bc77b46682"
 metafile = true
@@ -883,23 +764,8 @@ hash = "67912fedb9ee5e414fd4a83c794bf1115fb11c6ec6727be716bfacbf3e1fe61b"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "0137e610a80ec025012faf84b36e258874c8c16652651ca16a4ce974140a3a8f"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "20f26da3d0fff8502778e33c639d9b8b0e4fe417399412297887e3e34b0653cb"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "db32c01079dca6c7f5d78902fe2f77f98112cd0488d22c56df616a0f3bb3aba3"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "b1140d4ae2de37565ffd603c1e018b7efeacb53142014bfcf702b567490d31cf"
 metafile = true
 
 [[files]]
@@ -915,11 +781,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "6fa3bdcf728b69cd6d82156e7dc8559ac4d3d05ffa782edfd5a516c101c1342f"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "e72acc20778592e7db6a721993bdeb17168cd891c0d82bf990536c9807c79266"
 metafile = true
 
 [[files]]
@@ -973,11 +834,6 @@ hash = "5f1001d26ab1768a7fa9ede1ff23217df780426ae0c66991020506d9f9e49b0b"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "209f93e56f7bb0c28ceb1940548ad491bce2f87719e5e9daaf47f2452632cfba"
-metafile = true
-
-[[files]]
 file = "mods/sable-(create-aeronautics)-collision-damage.pw.toml"
 hash = "e60065e874db161f3e256c0237a05c5c6529c6b83f0608fc4ff33862e776847e"
 metafile = true
@@ -988,11 +844,6 @@ hash = "76704bf20d5e01b2a5d60e1f51308a30057730ce9e0ecdc27ce0f5ea298fa28a"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
-hash = "dbf910b625622730bd57e4d0512ab0cc5348e1005f003b8bcd21d4266e753b5e"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "660ef069d394ec950f939eb2bf41c937361799b1a86764cd60024496a11a3a78"
 metafile = true
@@ -1000,21 +851,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "87bc20d15f50c042d35635fbcb39fab2a92325cfd754f7da74fb776d04074b79"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "424d8c22aa411017565894fa8bb326a936eca7016b2cd158e82d034df119e6e8"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "caa152c23b005def9d3e422d508216dd43279fbebca941b560fde72c2f470536"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "9cd9d42a01e36c1aa4c75d814444e5981bc0ceb6baac9b522624d978fc71c4fe"
 metafile = true
 
 [[files]]
@@ -1068,11 +904,6 @@ hash = "fb10373124e2060af18ff2fe4c853107003c23dcbdcd496438bb44585aa0b49b"
 metafile = true
 
 [[files]]
-file = "mods/yeetus-experimentus.pw.toml"
-hash = "ea3bb56f66ec79efab39d47a774a8374114149ffb7384f73c0fb9b683420503b"
-metafile = true
-
-[[files]]
 file = "mods/zeta.pw.toml"
 hash = "08919de5d8de4b6b5af1c6e030815c8038bdc101dd2a1dc1367b07b3f21ef9e2"
 metafile = true
@@ -1085,13 +916,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "0b5d5775fc043471be8b2148c6c6573aa8c8f68aecedfb174f76e8fa275f9704"
-
-[[files]]
-file = "resourcepacks/fusion-connected-glass.pw.toml"
-hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fusion-emissive-ores.pw.toml"
-hash = "b6b1f215533954f72c7728e77b44fd9d97b80fd927f442c40298d7251c69a584"
-metafile = true
