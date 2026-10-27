@@ -13,7 +13,7 @@ The goal of this pack is to insentivise infrastructure such as an electrical gri
 Downloads can be found at [Create: Thermodynamics on Modrinth](https://modrinth.com/mod/createthermodynamics) - do not try to download and install using the links below, this is for reference.
 
 <details>
-<summary>Modlist (137)</summary>
+<summary>Modlist (109)</summary>
 
 | Name | Version | Author |
 | --- | --- | --- |
