@@ -4,6 +4,7 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21.1-1.0.0'
 
 [download]
 hash = '029439eed72acb8501f06fd934da24a4a71290500bf2754cd1d497ed9fff380b0aff7f78b076a6a44fbaae31fa2313101ea622a83c3fafba748db70c8de7a530'
@@ -14,3 +15,7 @@ url = 'https://cdn.modrinth.com/data/hhnR8xqU/versions/B9DLRbbX/redirected-neofo
 [update.modrinth]
 mod-id = 'hhnR8xqU'
 version = 'B9DLRbbX'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vBbPDuOs'
+type = 'REQUIRED'

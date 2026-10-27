@@ -1,9 +1,11 @@
 filename = 'ccpowergridcompat-1.0.1.jar'
 name = 'CCPowerGridCompat'
 side = 'both'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.1'
 
 [download]
 hash = '055e3112b6481a684f176727cad1d63b8d82c334c34183c76b8ffc2b750712485b85a7d177fc4ecdc9b5b72a777dd64f6e9e06ffba57ca21931861f6434f56e1'
