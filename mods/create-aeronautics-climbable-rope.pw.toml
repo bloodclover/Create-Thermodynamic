@@ -1,16 +1,29 @@
-filename = 'climbable_ropes-2.1.3.jar'
+filename = 'climbable_ropes-2.2.0.jar'
 name = 'Climbable Ropes for Create Aeronautics'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.0'
 
 [download]
-hash = 'db52e9be49b57110dc9012bc5332612f2f102092e722d4713b71e5c784ce56b1790093ef0deda6a0db16d442502be96f76640fc6b30ea92948e1377c59e35405'
+hash = 'ec8055e9b54a747aaabbf8a6a1f8c3df92d24015aa113669b3f4a166e89c3aa49815d7bd5f7b500581cc7ec8764a11daad7c21cbc03628f6a3d5791b4b19dde3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/jImqv1M5/versions/bdgQsUVU/climbable_ropes-2.1.3.jar'
+url = 'https://cdn.modrinth.com/data/jImqv1M5/versions/TTGedLb3/climbable_ropes-2.2.0.jar'
 
 [update.modrinth]
 mod-id = 'jImqv1M5'
-version = 'bdgQsUVU'
+version = 'TTGedLb3'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4I1XuqiY'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'

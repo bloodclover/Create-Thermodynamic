@@ -4,6 +4,7 @@ side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.9+mc1.21.1'
 
 [download]
 hash = '1a698e7f63b43e190998dcfb9c2d25f74bd3bc57546459148436492133b2a74a454de3c0cdf4bc1a7989e212d0e1029482e6392fc042efbd493b469a05428beb'
@@ -14,3 +15,13 @@ url = 'https://cdn.modrinth.com/data/lS5xwTPN/versions/zrL1SM2p/create-nuclear-a
 [update.modrinth]
 mod-id = 'lS5xwTPN'
 version = 'zrL1SM2p'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+version = 'UjX6dr61'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'eWiBLJ9R'
+type = 'OPTIONAL'
+version = '8EtGIOFr'

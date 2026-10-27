@@ -1,9 +1,11 @@
 filename = 'blahaj-neoforge-1.21.1-1.0.2.jar'
 name = "Red's Blåhaj Fork"
 side = 'both'
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
 
 [download]
 hash = '0d6eccfc11f60a0c5f91e20a1c95df43eb3fc918f864280e19b5803fe6245ec48d97a0842bd2291f7b3815c7556dfe4a381b10ea0c73e81a90a42d99cfc8eeed'
